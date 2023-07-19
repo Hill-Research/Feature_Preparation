@@ -1,0 +1,11 @@
+heart	B-History
+type	B-History
+2	I-History
+diabetes	I-History
+hyper	I-History
+is	B-History
+##cha	B-History
+##emi	I-History
+##c	I-History
+heart	I-History
+disease	I-History

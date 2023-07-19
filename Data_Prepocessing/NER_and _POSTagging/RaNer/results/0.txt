@@ -1,0 +1,13 @@
+体重	ite
+体重	ite
+体重指数	ite
+生命体征检查	pro
+体格检查	ite
+血常规	ite
+尿常规	ite
+血生化	ite
+乙肝表面抗原	mic
+丙肝抗体	bod
+梅毒螺旋体抗体	bod
+艾滋病抗体	bod
+8	12导联心电图检查	pro

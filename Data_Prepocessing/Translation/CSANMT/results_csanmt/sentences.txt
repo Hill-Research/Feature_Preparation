@@ -1,0 +1,20 @@
+Study Population
+ ------------------------------研究人群
+Recruiting the neonatal (Newborn) population. Currently there is no definite way of identifying which infant would need surfactant so this research would study study the value of lung ultrasound in predicting which infant would benefit from surfactant
+ ------------------------------招募新生儿 （ 新生 ） 人群。目前还没有确定哪个婴儿需要表面活性剂的明确方法 ， 因此本研究将研究肺超声在预测哪个婴儿将受益于表面活性剂中的价值
+Inclusion Criteria:
+ ------------------------------入选标准:
+Gestational age ≤34 weeks based on last menstrual period or ultrasound dating.
+ ------------------------------根据最后一次月经或超声约会 ， 妊娠年龄 ≤ 34 周。
+Non-invasive respiratory support or low flow oxygen needing neonatal unit admission
+ ------------------------------无创呼吸支持或低流量吸氧需要新生儿病房入院
+Exclusion Criteria:
+ ------------------------------排除标准:
+Received surfactant before first LU (<3hrs of life).
+ ------------------------------在第一次 LU 之前接受表面活性剂 (< 3 小时的寿命) 。
+Major congenital malformations including congenital lung disease and congenital heart disease as ascertained by the medical team.
+ ------------------------------医疗队确定的主要先天性畸形 ， 包括先天性肺病和先天性心脏病。
+Infants receiving delivery room surfactant or required intubation shortly after admission.
+ ------------------------------入院后不久接受产房表面活性剂或需要插管的婴儿。
+Infants diagnosed with pneumothorax needing needle or chest tube drainage
+ ------------------------------诊断为气胸的婴儿需要针或胸管引流

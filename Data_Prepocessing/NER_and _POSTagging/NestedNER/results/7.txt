@@ -1,0 +1,3 @@
+体重指数（BMI）	TEST_NAME
+19 ~ 26 kg/m2	TEST_RESULT
+体重指数(BMI)	TEST_NAME

@@ -1,0 +1,4 @@
+精神疾病	DIAGNOSIS
+精神分裂症	DIAGNOSIS
+双相I型障碍	DIAGNOSIS
+临床急性激越状态	SYMPTOM

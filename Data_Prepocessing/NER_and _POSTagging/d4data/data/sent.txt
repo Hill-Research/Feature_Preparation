@@ -1,0 +1,50 @@
+32 1a. Metastatic Colorectal Cancer0
+54 1a. Metastatic Lung Cancer; 2. Ischaemic Heart Disease0
+Ia) Metastatic transitional cell carcinoma of the bladder
+Ia)Ischaemic Bowel; Ib)Septic Shock; Ic)Urinary Tract Infection
+Ia) Carcinomatosis;Ib) Adenocarcinoma of oesphagus
+Ia)Metastatic Breast Cancer
+109 1a. Acute Kidney Failure; 1b. Recurrent Pseudo-Obstruction; 2. Cerebrovascular Disease With Thrombotic Stroke0
+Ia)Carbon Monoxide Poisoning; Verdict: Death was due to an accident
+1a. Pancreatic Cancer
+22 1a. Lewy-Body Dementia0
+Ia) Subarchnoid haemorrhage
+I(a) Urinary Tract Infection; I(b) Parkinsons Disease
+"105 1a. Metastatic Adeno-Carcinoma of Lung (Non Small Cell); 2. Ischaemic Heart Disease, Rheumatoid Arthritis0"
+Ia)Cor Pulmonale; Ib)Chronic Obstructive Pulmonary Disease
+Ia)Metastatic Carcinoma of Lung; Ib)Carcinoma of Caecum (Joint Causes of Death)
+1a)Metasttic Non-Small Cell Lung Cancer
+Ia)Myocardial Infarction and Cerebrovascular Accident; Ib)Atrial Fibrilation; II)Aortic Stenosis; Polymyalgia Rheumatica; Crohn\'s Disease; Hypertension
+"Ia) Heart Failure; Ib) Lewy Body Disease, Dementia"
+1a)Metastatic prostate cancer
+"134 1a. Acute Kidney Injury; 1b. Disseminated Malignancy; 2. Type 2 Diabetes Mellitus, Chronic Obstructive Pulmonary Disease, Hypertension0"
+1a. Metastatic Oesophageal Cancer
+"Ia)Septicaemia and Hepatorenal Syndrome; Ib)Decompensated Alcoholic Liver Disease; II)Sjogren\'s Syndrome, Breast Cancer"
+"130 1a. Metastatic Carcinoma Prostate; 2. Type 2 Diabetes, Coronary Heart Disease, Chronic Kidney Disease, Peripheral Vascular Disease0"
+Ia)Cholangiocarcinoma with Metastases
+1a. Small Bowel Obstruction; 1b. Adhesions Due To Crohn\'s Disease; 2. Ischaemic Heart Disease
+Ia)End Stage Cryptogenic Fibrosing Alveolitis; II)Sarcoidosis
+27 1a. Metastatic Renal Cancer0
+1a. Progressive Supranuclear Palsy
+91 1a. Bronchopneumonia; 1b. Metastatic lung cancer; 2. Neck of femur fracture - operated 20180
+Ia) Ischaemic Small Bowel; Ib) Abdominal Aortic Aneurysm
+1a. Mesothelioma; Verdict: contact with industrial asbestos.
+Ia)Septicaemic shock; Ib)Septicaemia; II)Liver Cirrhosis
+Ia) Carcinomatosis;Ib) Rectosigmoid adenocarcinoma
+77 1a. Metastatic right lung squamous cell carcinoma; Conclusion: Natural Causes0
+Ia) Bronchopneumonia;II) Rheumatoid Disease
+34 1a. Metastatic lung adenocarcinoma
+"Ia) Metastatic oesophageal cancer; II) Type 2 diabetes, Ischaemic heart disease, Cerebrovascular disease, Deep vein thrombosis"
+Ia)Metastatic Adenocarcinoma of the Lung
+23 1a. Cancer of the Ovary0
+"1a. Sepsis (Chest and Urine); 2. Liver Transplant, Long Term Immunosuppression, Bronchiectasis, Chronic Kidney Disease (CKD), Primary Biliary Cirrhosis"
+Ia)Liver Failure; Ib)Metastatic Pancreatic Cancer
+Ia)Metastatic Bladder Carcinoma
+1a)Glioblastoma
+Arrhythmia results of the full-disclosure ECG
+"CPLT: 1, ESC: 1"
+QRS Complexes: 3
+Sinus bradycardia with marked sinus arrhythmia
+Sinus rhythm with premature atrial complexes with aberrant conduction
+Normal sinus rhythm with sinus arrhythmia
+Sinus rhythm with occasional premature ventricular complexes

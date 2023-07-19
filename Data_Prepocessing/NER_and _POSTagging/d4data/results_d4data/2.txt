@@ -1,0 +1,204 @@
+Unnamed: 0
+	word:unnamed	entity:B-Diagnostic_procedure
+Unnamed: 0
+	word:0	entity:B-Lab_value
+Ia
+	word:ia	entity:B-Diagnostic_procedure
+Metastatic
+	word:meta	entity:B-Detailed_description
+Metastatic
+	word:##static	entity:B-Lab_value
+Renal
+	word:renal	entity:B-Biological_structure
+Cell
+	word:cell	entity:B-Detailed_description
+Carcinoma
+	word:car	entity:B-Disease_disorder
+Carcinoma
+	word:##cino	entity:B-Disease_disorder
+Carcinoma
+	word:##ma	entity:I-Disease_disorder
+2
+	word:2	entity:B-Lab_value
+Selective
+	word:selective	entity:B-Detailed_description
+Renal
+	word:renal	entity:B-Biological_structure
+Artery
+	word:artery	entity:B-Biological_structure
+Embolisation
+	word:em	entity:B-Therapeutic_procedure
+Embolisation
+	word:##bol	entity:I-Therapeutic_procedure
+Embolisation
+	word:##isation	entity:I-Therapeutic_procedure
+COPD
+	word:cop	entity:B-Disease_disorder
+COPD
+	word:##d	entity:I-Disease_disorder
+(
+	word:(	entity:I-Weight
+Chronic
+	word:chronic	entity:B-Detailed_description
+Obstructive
+	word:ob	entity:B-Detailed_description
+Obstructive
+	word:##st	entity:I-Detailed_description
+Obstructive
+	word:##ru	entity:I-Detailed_description
+Obstructive
+	word:##ctive	entity:I-Detailed_description
+Pulmonary
+	word:pulmonary	entity:B-Biological_structure
+Disease
+	word:disease	entity:B-Disease_disorder
+AF
+	word:af	entity:B-Detailed_description
+(
+	word:(	entity:I-Weight
+Atrial
+	word:at	entity:B-Biological_structure
+Atrial
+	word:##rial	entity:B-Biological_structure
+Fibrillation
+	word:fi	entity:B-Sign_symptom
+Fibrillation
+	word:##bri	entity:I-Sign_symptom
+Fibrillation
+	word:##llation	entity:I-Sign_symptom
+(
+	word:(	entity:I-Weight
+R
+	word:r	entity:B-Lab_value
+Nephrectomy
+	word:ne	entity:B-Therapeutic_procedure
+Nephrectomy
+	word:##ph	entity:B-Therapeutic_procedure
+Nephrectomy
+	word:##re	entity:B-Therapeutic_procedure
+Nephrectomy
+	word:##ct	entity:I-Therapeutic_procedure
+Nephrectomy
+	word:##omy	entity:I-Therapeutic_procedure
+renal
+	word:renal	entity:B-Biological_structure
+cell
+	word:cell	entity:B-Detailed_description
+carcinoma
+	word:car	entity:B-Disease_disorder
+carcinoma
+	word:##cino	entity:B-Disease_disorder
+carcinoma
+	word:##ma	entity:I-Disease_disorder
+HTN
+	word:h	entity:B-Coreference
+HTN
+	word:##t	entity:B-Coreference
+HTN
+	word:##n	entity:B-Coreference
+(
+	word:(	entity:I-Weight
+Hypertension
+	word:hyper	entity:B-Sign_symptom
+Hypertension
+	word:##tension	entity:I-Sign_symptom
+Unnamed: 0
+	word:unnamed	entity:B-Diagnostic_procedure
+Unnamed: 0
+	word:0	entity:B-Lab_value
+Ia
+	word:ia	entity:B-Diagnostic_procedure
+Respiratory
+	word:respiratory	entity:B-Biological_structure
+Cardiac
+	word:cardiac	entity:B-Biological_structure
+Arrest
+	word:arrest	entity:B-Diagnostic_procedure
+Lobectomy
+	word:lobe	entity:B-Coreference
+Lobectomy
+	word:##ct	entity:I-Therapeutic_procedure
+Lobectomy
+	word:##omy	entity:I-Therapeutic_procedure
+Squamous
+	word:sq	entity:B-Detailed_description
+Squamous
+	word:##ua	entity:I-Detailed_description
+Squamous
+	word:##mous	entity:I-Detailed_description
+Cell
+	word:cell	entity:B-Detailed_description
+Carcinoma
+	word:car	entity:B-Disease_disorder
+Carcinoma
+	word:##cino	entity:B-Disease_disorder
+Carcinoma
+	word:##ma	entity:I-Disease_disorder
+Lung
+	word:lung	entity:B-Biological_structure
+II
+	word:ii	entity:B-Lab_value
+Ischaemic
+	word:is	entity:B-Sign_symptom
+Ischaemic
+	word:##cha	entity:B-Sign_symptom
+Ischaemic
+	word:##emi	entity:B-Sign_symptom
+Ischaemic
+	word:##c	entity:I-Lab_value
+Heart
+	word:heart	entity:B-Biological_structure
+Disease
+	word:disease	entity:B-Disease_disorder
+Mixed
+	word:mixed	entity:B-Lab_value
+Dust
+	word:dust	entity:B-Sign_symptom
+Pneumoconiosis
+	word:p	entity:B-Disease_disorder
+Pneumoconiosis
+	word:##ne	entity:B-Disease_disorder
+Pneumoconiosis
+	word:##um	entity:I-Disease_disorder
+Pneumoconiosis
+	word:##oco	entity:I-Disease_disorder
+Pneumoconiosis
+	word:##nio	entity:B-Disease_disorder
+Pneumoconiosis
+	word:##sis	entity:I-Disease_disorder
+Hypertensive
+	word:hyper	entity:B-Sign_symptom
+Hypertensive
+	word:##tens	entity:B-Sign_symptom
+Hypertensive
+	word:##ive	entity:I-Sign_symptom
+Left
+	word:left	entity:B-Detailed_description
+Ventricular
+	word:vent	entity:B-Biological_structure
+Ventricular
+	word:##ric	entity:I-Biological_structure
+Ventricular
+	word:##ular	entity:I-Biological_structure
+Hypertrophy
+	word:hyper	entity:B-Sign_symptom
+Hypertrophy
+	word:##tro	entity:B-Sign_symptom
+Hypertrophy
+	word:##phy	entity:I-Sign_symptom
+Verdict
+	word:verdict	entity:B-Clinical_event
+deceased
+	word:deceased	entity:B-Family_history
+died
+	word:died	entity:B-Outcome
+as
+	word:as	entity:B-Detailed_description
+a
+	word:a	entity:B-Lab_value
+result
+	word:result	entity:B-Diagnostic_procedure
+a
+	word:a	entity:B-Lab_value
+recognised
+	word:recognised	entity:B-Qualitative_concept

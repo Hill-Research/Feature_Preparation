@@ -1,0 +1,1523 @@
+Unnamed: 0
+	word:unnamed	entity:B-Diagnostic_procedure
+Unnamed: 0
+	word:0	entity:B-Lab_value
+Ia
+	word:ia	entity:B-Diagnostic_procedure
+Metastatic
+	word:meta	entity:B-Detailed_description
+Metastatic
+	word:##static	entity:B-Lab_value
+Renal
+	word:renal	entity:B-Biological_structure
+Cell
+	word:cell	entity:B-Detailed_description
+Carcinoma
+	word:car	entity:B-Disease_disorder
+Carcinoma
+	word:##cino	entity:B-Disease_disorder
+Carcinoma
+	word:##ma	entity:I-Disease_disorder
+2
+	word:2	entity:B-Lab_value
+Selective
+	word:selective	entity:B-Detailed_description
+Renal
+	word:renal	entity:B-Biological_structure
+Artery
+	word:artery	entity:B-Biological_structure
+Embolisation
+	word:em	entity:B-Therapeutic_procedure
+Embolisation
+	word:##bol	entity:I-Therapeutic_procedure
+Embolisation
+	word:##isation	entity:I-Therapeutic_procedure
+COPD
+	word:cop	entity:B-Disease_disorder
+COPD
+	word:##d	entity:I-Disease_disorder
+(
+	word:(	entity:I-Weight
+Chronic
+	word:chronic	entity:B-Detailed_description
+Obstructive
+	word:ob	entity:B-Detailed_description
+Obstructive
+	word:##st	entity:I-Detailed_description
+Obstructive
+	word:##ru	entity:I-Detailed_description
+Obstructive
+	word:##ctive	entity:I-Detailed_description
+Pulmonary
+	word:pulmonary	entity:B-Biological_structure
+Disease
+	word:disease	entity:B-Disease_disorder
+AF
+	word:af	entity:B-Detailed_description
+(
+	word:(	entity:I-Weight
+Atrial
+	word:at	entity:B-Biological_structure
+Atrial
+	word:##rial	entity:B-Biological_structure
+Fibrillation
+	word:fi	entity:B-Sign_symptom
+Fibrillation
+	word:##bri	entity:I-Sign_symptom
+Fibrillation
+	word:##llation	entity:I-Sign_symptom
+(
+	word:(	entity:I-Weight
+R
+	word:r	entity:B-Lab_value
+Nephrectomy
+	word:ne	entity:B-Therapeutic_procedure
+Nephrectomy
+	word:##ph	entity:B-Therapeutic_procedure
+Nephrectomy
+	word:##re	entity:B-Therapeutic_procedure
+Nephrectomy
+	word:##ct	entity:I-Therapeutic_procedure
+Nephrectomy
+	word:##omy	entity:I-Therapeutic_procedure
+renal
+	word:renal	entity:B-Biological_structure
+cell
+	word:cell	entity:B-Detailed_description
+carcinoma
+	word:car	entity:B-Disease_disorder
+carcinoma
+	word:##cino	entity:B-Disease_disorder
+carcinoma
+	word:##ma	entity:I-Disease_disorder
+HTN
+	word:h	entity:B-Coreference
+HTN
+	word:##t	entity:B-Coreference
+HTN
+	word:##n	entity:B-Coreference
+(
+	word:(	entity:I-Weight
+Hypertension
+	word:hyper	entity:B-Sign_symptom
+Hypertension
+	word:##tension	entity:I-Sign_symptom
+Unnamed: 0
+	word:unnamed	entity:B-Diagnostic_procedure
+Unnamed: 0
+	word:0	entity:B-Lab_value
+Ia
+	word:ia	entity:B-Diagnostic_procedure
+Respiratory
+	word:respiratory	entity:B-Biological_structure
+Cardiac
+	word:cardiac	entity:B-Biological_structure
+Arrest
+	word:arrest	entity:B-Diagnostic_procedure
+Lobectomy
+	word:lobe	entity:B-Coreference
+Lobectomy
+	word:##ct	entity:I-Therapeutic_procedure
+Lobectomy
+	word:##omy	entity:I-Therapeutic_procedure
+Squamous
+	word:sq	entity:B-Detailed_description
+Squamous
+	word:##ua	entity:I-Detailed_description
+Squamous
+	word:##mous	entity:I-Detailed_description
+Cell
+	word:cell	entity:B-Detailed_description
+Carcinoma
+	word:car	entity:B-Disease_disorder
+Carcinoma
+	word:##cino	entity:B-Disease_disorder
+Carcinoma
+	word:##ma	entity:I-Disease_disorder
+Lung
+	word:lung	entity:B-Biological_structure
+II
+	word:ii	entity:B-Lab_value
+Ischaemic
+	word:is	entity:B-Sign_symptom
+Ischaemic
+	word:##cha	entity:B-Sign_symptom
+Ischaemic
+	word:##emi	entity:B-Sign_symptom
+Ischaemic
+	word:##c	entity:I-Lab_value
+Heart
+	word:heart	entity:B-Biological_structure
+Disease
+	word:disease	entity:B-Disease_disorder
+Mixed
+	word:mixed	entity:B-Lab_value
+Dust
+	word:dust	entity:B-Sign_symptom
+Pneumoconiosis
+	word:p	entity:B-Disease_disorder
+Pneumoconiosis
+	word:##ne	entity:B-Disease_disorder
+Pneumoconiosis
+	word:##um	entity:I-Disease_disorder
+Pneumoconiosis
+	word:##oco	entity:I-Disease_disorder
+Pneumoconiosis
+	word:##nio	entity:B-Disease_disorder
+Pneumoconiosis
+	word:##sis	entity:I-Disease_disorder
+Hypertensive
+	word:hyper	entity:B-Sign_symptom
+Hypertensive
+	word:##tens	entity:B-Sign_symptom
+Hypertensive
+	word:##ive	entity:I-Sign_symptom
+Left
+	word:left	entity:B-Detailed_description
+Ventricular
+	word:vent	entity:B-Biological_structure
+Ventricular
+	word:##ric	entity:I-Biological_structure
+Ventricular
+	word:##ular	entity:I-Biological_structure
+Hypertrophy
+	word:hyper	entity:B-Sign_symptom
+Hypertrophy
+	word:##tro	entity:B-Sign_symptom
+Hypertrophy
+	word:##phy	entity:I-Sign_symptom
+Verdict
+	word:verdict	entity:B-Clinical_event
+deceased
+	word:deceased	entity:B-Family_history
+died
+	word:died	entity:B-Outcome
+as
+	word:as	entity:B-Detailed_description
+a
+	word:a	entity:B-Lab_value
+result
+	word:result	entity:B-Diagnostic_procedure
+a
+	word:a	entity:B-Lab_value
+recognised
+	word:recognised	entity:B-Qualitative_concept
+Study Population
+	word:study	entity:B-Diagnostic_procedure
+Study Population
+	word:population	entity:I-Diagnostic_procedure
+Recruiting the neonatal (Newborn) population. Currently there is no definite way of identifying which infant would need surfactant so this research would study study the value of lung ultrasound in predicting which infant would benefit from surfactant
+	word:surf	entity:B-Medication
+Recruiting the neonatal (Newborn) population. Currently there is no definite way of identifying which infant would need surfactant so this research would study study the value of lung ultrasound in predicting which infant would benefit from surfactant
+	word:##act	entity:I-Medication
+Recruiting the neonatal (Newborn) population. Currently there is no definite way of identifying which infant would need surfactant so this research would study study the value of lung ultrasound in predicting which infant would benefit from surfactant
+	word:##ant	entity:I-Medication
+Recruiting the neonatal (Newborn) population. Currently there is no definite way of identifying which infant would need surfactant so this research would study study the value of lung ultrasound in predicting which infant would benefit from surfactant
+	word:lung	entity:B-Biological_structure
+Recruiting the neonatal (Newborn) population. Currently there is no definite way of identifying which infant would need surfactant so this research would study study the value of lung ultrasound in predicting which infant would benefit from surfactant
+	word:ultrasound	entity:B-Diagnostic_procedure
+Recruiting the neonatal (Newborn) population. Currently there is no definite way of identifying which infant would need surfactant so this research would study study the value of lung ultrasound in predicting which infant would benefit from surfactant
+	word:surf	entity:B-Medication
+Recruiting the neonatal (Newborn) population. Currently there is no definite way of identifying which infant would need surfactant so this research would study study the value of lung ultrasound in predicting which infant would benefit from surfactant
+	word:##act	entity:B-Medication
+Recruiting the neonatal (Newborn) population. Currently there is no definite way of identifying which infant would need surfactant so this research would study study the value of lung ultrasound in predicting which infant would benefit from surfactant
+	word:##ant	entity:I-Medication
+Gestational age ≤34 weeks based on last menstrual period or ultrasound dating.
+	word:ge	entity:B-Diagnostic_procedure
+Gestational age ≤34 weeks based on last menstrual period or ultrasound dating.
+	word:##station	entity:I-Diagnostic_procedure
+Gestational age ≤34 weeks based on last menstrual period or ultrasound dating.
+	word:##al	entity:I-Diagnostic_procedure
+Gestational age ≤34 weeks based on last menstrual period or ultrasound dating.
+	word:age	entity:I-Diagnostic_procedure
+Gestational age ≤34 weeks based on last menstrual period or ultrasound dating.
+	word:≤	entity:B-Date
+Gestational age ≤34 weeks based on last menstrual period or ultrasound dating.
+	word:##34	entity:I-Date
+Gestational age ≤34 weeks based on last menstrual period or ultrasound dating.
+	word:weeks	entity:I-Date
+Gestational age ≤34 weeks based on last menstrual period or ultrasound dating.
+	word:men	entity:B-Diagnostic_procedure
+Gestational age ≤34 weeks based on last menstrual period or ultrasound dating.
+	word:##st	entity:I-Diagnostic_procedure
+Gestational age ≤34 weeks based on last menstrual period or ultrasound dating.
+	word:##ru	entity:I-Other_event
+Gestational age ≤34 weeks based on last menstrual period or ultrasound dating.
+	word:##al	entity:I-Diagnostic_procedure
+Gestational age ≤34 weeks based on last menstrual period or ultrasound dating.
+	word:period	entity:I-Diagnostic_procedure
+Gestational age ≤34 weeks based on last menstrual period or ultrasound dating.
+	word:ultrasound	entity:B-Diagnostic_procedure
+Non-invasive respiratory support or low flow oxygen needing neonatal unit admission
+	word:non	entity:B-Detailed_description
+Non-invasive respiratory support or low flow oxygen needing neonatal unit admission
+	word:invasive	entity:I-Detailed_description
+Non-invasive respiratory support or low flow oxygen needing neonatal unit admission
+	word:respiratory	entity:B-Therapeutic_procedure
+Non-invasive respiratory support or low flow oxygen needing neonatal unit admission
+	word:support	entity:I-Therapeutic_procedure
+Non-invasive respiratory support or low flow oxygen needing neonatal unit admission
+	word:low	entity:B-Lab_value
+Non-invasive respiratory support or low flow oxygen needing neonatal unit admission
+	word:flow	entity:I-Detailed_description
+Non-invasive respiratory support or low flow oxygen needing neonatal unit admission
+	word:oxygen	entity:I-Therapeutic_procedure
+Non-invasive respiratory support or low flow oxygen needing neonatal unit admission
+	word:neon	entity:B-Clinical_event
+Non-invasive respiratory support or low flow oxygen needing neonatal unit admission
+	word:##atal	entity:B-Clinical_event
+Non-invasive respiratory support or low flow oxygen needing neonatal unit admission
+	word:unit	entity:I-Therapeutic_procedure
+Non-invasive respiratory support or low flow oxygen needing neonatal unit admission
+	word:admission	entity:B-Clinical_event
+Received surfactant before first LU (<3hrs of life).
+	word:surf	entity:B-Medication
+Received surfactant before first LU (<3hrs of life).
+	word:##act	entity:B-Medication
+Received surfactant before first LU (<3hrs of life).
+	word:##ant	entity:I-Medication
+Received surfactant before first LU (<3hrs of life).
+	word:lu	entity:B-Therapeutic_procedure
+Major congenital malformations including congenital lung disease and congenital heart disease as ascertained by the medical team.
+	word:congenital	entity:B-History
+Major congenital malformations including congenital lung disease and congenital heart disease as ascertained by the medical team.
+	word:mal	entity:I-Disease_disorder
+Major congenital malformations including congenital lung disease and congenital heart disease as ascertained by the medical team.
+	word:##form	entity:I-Disease_disorder
+Major congenital malformations including congenital lung disease and congenital heart disease as ascertained by the medical team.
+	word:##ations	entity:I-Disease_disorder
+Major congenital malformations including congenital lung disease and congenital heart disease as ascertained by the medical team.
+	word:congenital	entity:B-History
+Major congenital malformations including congenital lung disease and congenital heart disease as ascertained by the medical team.
+	word:lung	entity:B-Disease_disorder
+Major congenital malformations including congenital lung disease and congenital heart disease as ascertained by the medical team.
+	word:disease	entity:I-Disease_disorder
+Major congenital malformations including congenital lung disease and congenital heart disease as ascertained by the medical team.
+	word:congenital	entity:B-Disease_disorder
+Major congenital malformations including congenital lung disease and congenital heart disease as ascertained by the medical team.
+	word:heart	entity:I-Disease_disorder
+Major congenital malformations including congenital lung disease and congenital heart disease as ascertained by the medical team.
+	word:disease	entity:I-Disease_disorder
+Infants receiving delivery room surfactant or required intubation shortly after admission.
+	word:infants	entity:B-Subject
+Infants receiving delivery room surfactant or required intubation shortly after admission.
+	word:delivery	entity:B-Clinical_event
+Infants receiving delivery room surfactant or required intubation shortly after admission.
+	word:room	entity:I-Therapeutic_procedure
+Infants receiving delivery room surfactant or required intubation shortly after admission.
+	word:surf	entity:B-Therapeutic_procedure
+Infants receiving delivery room surfactant or required intubation shortly after admission.
+	word:##act	entity:I-Therapeutic_procedure
+Infants receiving delivery room surfactant or required intubation shortly after admission.
+	word:##ant	entity:I-Therapeutic_procedure
+Infants receiving delivery room surfactant or required intubation shortly after admission.
+	word:int	entity:B-Therapeutic_procedure
+Infants receiving delivery room surfactant or required intubation shortly after admission.
+	word:##uba	entity:B-Therapeutic_procedure
+Infants receiving delivery room surfactant or required intubation shortly after admission.
+	word:##tion	entity:I-Therapeutic_procedure
+Infants diagnosed with pneumothorax needing needle or chest tube drainage	word:p	entity:B-Disease_disorder
+Infants diagnosed with pneumothorax needing needle or chest tube drainage	word:##ne	entity:I-Disease_disorder
+Infants diagnosed with pneumothorax needing needle or chest tube drainage	word:##um	entity:I-Disease_disorder
+Infants diagnosed with pneumothorax needing needle or chest tube drainage	word:##otho	entity:I-Disease_disorder
+Infants diagnosed with pneumothorax needing needle or chest tube drainage	word:##ra	entity:I-Disease_disorder
+Infants diagnosed with pneumothorax needing needle or chest tube drainage	word:##x	entity:I-Disease_disorder
+Infants diagnosed with pneumothorax needing needle or chest tube drainage	word:needle	entity:B-Therapeutic_procedure
+Infants diagnosed with pneumothorax needing needle or chest tube drainage	word:chest	entity:B-Biological_structure
+Infants diagnosed with pneumothorax needing needle or chest tube drainage	word:tube	entity:I-Therapeutic_procedure
+Infants diagnosed with pneumothorax needing needle or chest tube drainage	word:drainage	entity:I-Therapeutic_procedure
+Unnamed: 0
+	word:unnamed	entity:B-Diagnostic_procedure
+Unnamed: 0
+	word:0	entity:B-Lab_value
+306
+	word:306	entity:B-Lab_value
+1a
+	word:1a	entity:B-Lab_value
+Hypoxic
+	word:h	entity:B-Sign_symptom
+Hypoxic
+	word:##yp	entity:B-Sign_symptom
+Hypoxic
+	word:##ox	entity:B-Sign_symptom
+Hypoxic
+	word:##ic	entity:I-Sign_symptom
+-
+	word:-	entity:B-Coreference
+ischaemic
+	word:is	entity:B-Sign_symptom
+ischaemic
+	word:##cha	entity:B-Sign_symptom
+ischaemic
+	word:##emi	entity:B-Sign_symptom
+ischaemic
+	word:##c	entity:I-Lab_value
+encephalopathy
+	word:en	entity:B-Disease_disorder
+encephalopathy
+	word:##ce	entity:I-Disease_disorder
+encephalopathy
+	word:##pha	entity:I-Disease_disorder
+encephalopathy
+	word:##lo	entity:I-Disease_disorder
+encephalopathy
+	word:##pathy	entity:I-Disease_disorder
+secondary
+	word:secondary	entity:B-Detailed_description
+ventricular
+	word:vent	entity:B-Biological_structure
+ventricular
+	word:##ric	entity:I-Biological_structure
+ventricular
+	word:##ular	entity:I-Biological_structure
+fibrillation
+	word:fi	entity:B-Sign_symptom
+fibrillation
+	word:##bri	entity:I-Sign_symptom
+fibrillation
+	word:##llation	entity:I-Sign_symptom
+cardiac
+	word:cardiac	entity:B-Biological_structure
+arrest
+	word:arrest	entity:B-Diagnostic_procedure
+1b
+	word:1b	entity:B-Lab_value
+Malfunction
+	word:mal	entity:B-Sign_symptom
+Malfunction
+	word:##fu	entity:I-Sign_symptom
+Malfunction
+	word:##nction	entity:I-Disease_disorder
+implanted
+	word:implant	entity:B-Therapeutic_procedure
+implanted
+	word:##ed	entity:B-Therapeutic_procedure
+cardiac
+	word:cardiac	entity:B-Biological_structure
+pacemaker
+	word:pace	entity:B-Therapeutic_procedure
+pacemaker
+	word:##maker	entity:I-Therapeutic_procedure
+1c
+	word:1	entity:B-Lab_value
+1c
+	word:##c	entity:I-Lab_value
+Atrial
+	word:at	entity:B-Biological_structure
+Atrial
+	word:##rial	entity:B-Biological_structure
+Fibrillation
+	word:fi	entity:B-Sign_symptom
+Fibrillation
+	word:##bri	entity:I-Sign_symptom
+Fibrillation
+	word:##llation	entity:I-Sign_symptom
+2
+	word:2	entity:B-Lab_value
+Mitral
+	word:mit	entity:B-Biological_structure
+Mitral
+	word:##ral	entity:B-Biological_structure
+Valve
+	word:valve	entity:B-Coreference
+replacement
+	word:replacement	entity:B-Therapeutic_procedure
+mitral
+	word:mit	entity:B-Biological_structure
+mitral
+	word:##ral	entity:B-Biological_structure
+stenosis
+	word:ste	entity:B-Coreference
+stenosis
+	word:##nosis	entity:I-Sign_symptom
+pulmonary
+	word:pulmonary	entity:B-Biological_structure
+hypertension
+	word:hyper	entity:B-Sign_symptom
+hypertension
+	word:##tension	entity:I-Sign_symptom
+systemic
+	word:systemic	entity:B-Detailed_description
+hypertension
+	word:hyper	entity:B-Sign_symptom
+hypertension
+	word:##tension	entity:I-Sign_symptom
+rheumatic
+	word:r	entity:B-Detailed_description
+rheumatic
+	word:##he	entity:I-Detailed_description
+rheumatic
+	word:##umatic	entity:B-Detailed_description
+fever
+	word:fever	entity:B-Sign_symptom
+Natural
+	word:natural	entity:B-Detailed_description
+Causes0
+	word:causes	entity:B-Lab_value
+Causes0
+	word:##0	entity:B-Lab_value
+Unnamed: 0
+	word:unnamed	entity:B-Diagnostic_procedure
+Unnamed: 0
+	word:0	entity:B-Lab_value
+202
+	word:202	entity:B-Lab_value
+1a
+	word:1a	entity:B-Lab_value
+Progressive
+	word:progressive	entity:B-Detailed_description
+renal
+	word:renal	entity:B-Biological_structure
+failure
+	word:failure	entity:B-Sign_symptom
+Pneumonia
+	word:pneumonia	entity:B-Disease_disorder
+1b
+	word:1b	entity:B-Lab_value
+Chronic
+	word:chronic	entity:B-Detailed_description
+kidney
+	word:kidney	entity:B-Biological_structure
+disease
+	word:disease	entity:B-Disease_disorder
+Chronic
+	word:chronic	entity:B-Detailed_description
+obstructive
+	word:ob	entity:B-Detailed_description
+obstructive
+	word:##st	entity:I-Detailed_description
+obstructive
+	word:##ru	entity:I-Detailed_description
+obstructive
+	word:##ctive	entity:I-Detailed_description
+pulmonary
+	word:pulmonary	entity:B-Biological_structure
+disease
+	word:disease	entity:B-Disease_disorder
+2
+	word:2	entity:B-Lab_value
+Atrial
+	word:at	entity:B-Biological_structure
+Atrial
+	word:##rial	entity:B-Biological_structure
+fibrillation
+	word:fi	entity:B-Sign_symptom
+fibrillation
+	word:##bri	entity:I-Sign_symptom
+fibrillation
+	word:##llation	entity:I-Sign_symptom
+Heart
+	word:heart	entity:B-Biological_structure
+failure
+	word:failure	entity:B-Sign_symptom
+Type
+	word:type	entity:B-Diagnostic_procedure
+2
+	word:2	entity:B-Lab_value
+diabetes
+	word:diabetes	entity:B-Disease_disorder
+Hypertension
+	word:hyper	entity:B-Sign_symptom
+Hypertension
+	word:##tension	entity:I-Sign_symptom
+Ischaemic
+	word:is	entity:B-Sign_symptom
+Ischaemic
+	word:##cha	entity:B-Sign_symptom
+Ischaemic
+	word:##emi	entity:B-Sign_symptom
+Ischaemic
+	word:##c	entity:I-Lab_value
+heart
+	word:heart	entity:B-Biological_structure
+disease0
+	word:disease	entity:B-Lab_value
+disease0
+	word:##0	entity:B-Lab_value
+Unnamed: 0
+	word:unnamed	entity:B-Diagnostic_procedure
+Unnamed: 0
+	word:0	entity:B-Lab_value
+Ia
+	word:ia	entity:B-Diagnostic_procedure
+Multi
+	word:multi	entity:B-Detailed_description
+organ
+	word:organ	entity:B-Diagnostic_procedure
+failure
+	word:failure	entity:B-Sign_symptom
+Ib
+	word:ib	entity:B-Diagnostic_procedure
+Adult
+	word:adult	entity:B-Detailed_description
+respiratory
+	word:respiratory	entity:B-Biological_structure
+distress
+	word:distress	entity:B-Sign_symptom
+syndrome
+	word:syndrome	entity:B-Disease_disorder
+background
+	word:background	entity:B-Diagnostic_procedure
+aortic
+	word:ao	entity:B-Biological_structure
+aortic
+	word:##rti	entity:B-Biological_structure
+aortic
+	word:##c	entity:I-Biological_structure
+valve
+	word:valve	entity:B-Coreference
+disease
+	word:disease	entity:B-Disease_disorder
+treated
+	word:treated	entity:B-Therapeutic_procedure
+by
+	word:by	entity:B-Other_entity
+surgery
+	word:surgery	entity:B-Therapeutic_procedure
+2014
+	word:2014	entity:B-Date
+II
+	word:ii	entity:B-Lab_value
+Hypertensive
+	word:hyper	entity:B-Sign_symptom
+Hypertensive
+	word:##tens	entity:B-Sign_symptom
+Hypertensive
+	word:##ive	entity:I-Sign_symptom
+heart
+	word:heart	entity:B-Biological_structure
+disease
+	word:disease	entity:B-Disease_disorder
+VERDICT
+	word:verdict	entity:B-Clinical_event
+X
+	word:x	entity:B-Lab_value
+was
+	word:was	entity:B-Coreference
+admitted
+	word:admitted	entity:B-Clinical_event
+hospital
+	word:hospital	entity:B-Nonbiological_location
+(
+	word:(	entity:I-Weight
+32 1a. Metastatic Colorectal Cancer0
+	word:32	entity:B-Lab_value
+32 1a. Metastatic Colorectal Cancer0
+	word:meta	entity:B-Detailed_description
+32 1a. Metastatic Colorectal Cancer0
+	word:##static	entity:B-Detailed_description
+32 1a. Metastatic Colorectal Cancer0
+	word:color	entity:B-Disease_disorder
+32 1a. Metastatic Colorectal Cancer0
+	word:##ect	entity:I-Disease_disorder
+32 1a. Metastatic Colorectal Cancer0
+	word:##al	entity:I-Disease_disorder
+32 1a. Metastatic Colorectal Cancer0
+	word:cancer	entity:I-Disease_disorder
+32 1a. Metastatic Colorectal Cancer0
+	word:##0	entity:B-Lab_value
+54 1a. Metastatic Lung Cancer; 2. Ischaemic Heart Disease0
+	word:54	entity:B-Lab_value
+54 1a. Metastatic Lung Cancer; 2. Ischaemic Heart Disease0
+	word:meta	entity:B-Detailed_description
+54 1a. Metastatic Lung Cancer; 2. Ischaemic Heart Disease0
+	word:lung	entity:B-Biological_structure
+54 1a. Metastatic Lung Cancer; 2. Ischaemic Heart Disease0
+	word:is	entity:B-Sign_symptom
+54 1a. Metastatic Lung Cancer; 2. Ischaemic Heart Disease0
+	word:disease	entity:I-Disease_disorder
+54 1a. Metastatic Lung Cancer; 2. Ischaemic Heart Disease0
+	word:##0	entity:B-Lab_value
+Ia) Metastatic transitional cell carcinoma of the bladder
+	word:meta	entity:B-Detailed_description
+Ia) Metastatic transitional cell carcinoma of the bladder
+	word:##static	entity:B-Detailed_description
+Ia) Metastatic transitional cell carcinoma of the bladder
+	word:transitional	entity:B-Disease_disorder
+Ia) Metastatic transitional cell carcinoma of the bladder
+	word:cell	entity:I-Disease_disorder
+Ia) Metastatic transitional cell carcinoma of the bladder
+	word:car	entity:I-Disease_disorder
+Ia) Metastatic transitional cell carcinoma of the bladder
+	word:##cino	entity:I-Disease_disorder
+Ia) Metastatic transitional cell carcinoma of the bladder
+	word:##ma	entity:I-Disease_disorder
+Ia) Metastatic transitional cell carcinoma of the bladder
+	word:bladder	entity:B-Biological_structure
+Ia)Ischaemic Bowel; Ib)Septic Shock; Ic)Urinary Tract Infection
+	word:ur	entity:B-Biological_structure
+Ia)Ischaemic Bowel; Ib)Septic Shock; Ic)Urinary Tract Infection
+	word:##ina	entity:B-Biological_structure
+Ia)Ischaemic Bowel; Ib)Septic Shock; Ic)Urinary Tract Infection
+	word:tract	entity:I-Biological_structure
+Ia)Ischaemic Bowel; Ib)Septic Shock; Ic)Urinary Tract Infection
+	word:infection	entity:B-Disease_disorder
+Ia) Carcinomatosis;Ib) Adenocarcinoma of oesphagus
+	word:car	entity:B-Disease_disorder
+Ia) Carcinomatosis;Ib) Adenocarcinoma of oesphagus
+	word:##cino	entity:B-Disease_disorder
+Ia) Carcinomatosis;Ib) Adenocarcinoma of oesphagus
+	word:##mat	entity:I-Disease_disorder
+Ia) Carcinomatosis;Ib) Adenocarcinoma of oesphagus
+	word:aden	entity:B-Disease_disorder
+Ia) Carcinomatosis;Ib) Adenocarcinoma of oesphagus
+	word:##oca	entity:I-Disease_disorder
+Ia) Carcinomatosis;Ib) Adenocarcinoma of oesphagus
+	word:##rc	entity:I-Disease_disorder
+Ia) Carcinomatosis;Ib) Adenocarcinoma of oesphagus
+	word:##ino	entity:I-Disease_disorder
+Ia) Carcinomatosis;Ib) Adenocarcinoma of oesphagus
+	word:##ma	entity:I-Disease_disorder
+Ia) Carcinomatosis;Ib) Adenocarcinoma of oesphagus
+	word:o	entity:B-Biological_structure
+Ia) Carcinomatosis;Ib) Adenocarcinoma of oesphagus
+	word:##es	entity:I-Biological_structure
+Ia) Carcinomatosis;Ib) Adenocarcinoma of oesphagus
+	word:##pha	entity:I-Biological_structure
+Ia) Carcinomatosis;Ib) Adenocarcinoma of oesphagus
+	word:##gus	entity:I-Biological_structure
+Ia)Metastatic Breast Cancer
+	word:meta	entity:B-Detailed_description
+Ia)Metastatic Breast Cancer
+	word:##static	entity:B-Detailed_description
+Ia)Metastatic Breast Cancer
+	word:breast	entity:B-Biological_structure
+Ia)Metastatic Breast Cancer
+	word:cancer	entity:I-Disease_disorder
+109 1a. Acute Kidney Failure; 1b. Recurrent Pseudo-Obstruction; 2. Cerebrovascular Disease With Thrombotic Stroke0
+	word:109	entity:B-Lab_value
+109 1a. Acute Kidney Failure; 1b. Recurrent Pseudo-Obstruction; 2. Cerebrovascular Disease With Thrombotic Stroke0
+	word:acute	entity:B-Detailed_description
+109 1a. Acute Kidney Failure; 1b. Recurrent Pseudo-Obstruction; 2. Cerebrovascular Disease With Thrombotic Stroke0
+	word:kidney	entity:B-Disease_disorder
+109 1a. Acute Kidney Failure; 1b. Recurrent Pseudo-Obstruction; 2. Cerebrovascular Disease With Thrombotic Stroke0
+	word:failure	entity:I-Disease_disorder
+109 1a. Acute Kidney Failure; 1b. Recurrent Pseudo-Obstruction; 2. Cerebrovascular Disease With Thrombotic Stroke0
+	word:rec	entity:B-Detailed_description
+109 1a. Acute Kidney Failure; 1b. Recurrent Pseudo-Obstruction; 2. Cerebrovascular Disease With Thrombotic Stroke0
+	word:##urrent	entity:B-Detailed_description
+109 1a. Acute Kidney Failure; 1b. Recurrent Pseudo-Obstruction; 2. Cerebrovascular Disease With Thrombotic Stroke0
+	word:ce	entity:B-Disease_disorder
+109 1a. Acute Kidney Failure; 1b. Recurrent Pseudo-Obstruction; 2. Cerebrovascular Disease With Thrombotic Stroke0
+	word:##re	entity:I-Disease_disorder
+109 1a. Acute Kidney Failure; 1b. Recurrent Pseudo-Obstruction; 2. Cerebrovascular Disease With Thrombotic Stroke0
+	word:##bro	entity:B-Disease_disorder
+109 1a. Acute Kidney Failure; 1b. Recurrent Pseudo-Obstruction; 2. Cerebrovascular Disease With Thrombotic Stroke0
+	word:##vas	entity:I-Disease_disorder
+109 1a. Acute Kidney Failure; 1b. Recurrent Pseudo-Obstruction; 2. Cerebrovascular Disease With Thrombotic Stroke0
+	word:##cular	entity:I-Disease_disorder
+109 1a. Acute Kidney Failure; 1b. Recurrent Pseudo-Obstruction; 2. Cerebrovascular Disease With Thrombotic Stroke0
+	word:disease	entity:I-Disease_disorder
+109 1a. Acute Kidney Failure; 1b. Recurrent Pseudo-Obstruction; 2. Cerebrovascular Disease With Thrombotic Stroke0
+	word:th	entity:B-Detailed_description
+109 1a. Acute Kidney Failure; 1b. Recurrent Pseudo-Obstruction; 2. Cerebrovascular Disease With Thrombotic Stroke0
+	word:##rom	entity:B-Disease_disorder
+109 1a. Acute Kidney Failure; 1b. Recurrent Pseudo-Obstruction; 2. Cerebrovascular Disease With Thrombotic Stroke0
+	word:##bot	entity:I-Disease_disorder
+109 1a. Acute Kidney Failure; 1b. Recurrent Pseudo-Obstruction; 2. Cerebrovascular Disease With Thrombotic Stroke0
+	word:##ic	entity:I-Disease_disorder
+109 1a. Acute Kidney Failure; 1b. Recurrent Pseudo-Obstruction; 2. Cerebrovascular Disease With Thrombotic Stroke0
+	word:stroke	entity:B-Disease_disorder
+109 1a. Acute Kidney Failure; 1b. Recurrent Pseudo-Obstruction; 2. Cerebrovascular Disease With Thrombotic Stroke0
+	word:##0	entity:B-Lab_value
+Ia)Carbon Monoxide Poisoning; Verdict: Death was due to an accident
+	word:carbon	entity:B-Disease_disorder
+Ia)Carbon Monoxide Poisoning; Verdict: Death was due to an accident
+	word:mono	entity:I-Disease_disorder
+Ia)Carbon Monoxide Poisoning; Verdict: Death was due to an accident
+	word:##xide	entity:I-Disease_disorder
+Ia)Carbon Monoxide Poisoning; Verdict: Death was due to an accident
+	word:death	entity:B-Outcome
+Ia)Carbon Monoxide Poisoning; Verdict: Death was due to an accident
+	word:an	entity:I-Detailed_description
+Ia)Carbon Monoxide Poisoning; Verdict: Death was due to an accident
+	word:accident	entity:I-Detailed_description
+1a. Pancreatic Cancer
+	word:pan	entity:B-Disease_disorder
+1a. Pancreatic Cancer
+	word:##cre	entity:B-Disease_disorder
+1a. Pancreatic Cancer
+	word:##atic	entity:I-Disease_disorder
+1a. Pancreatic Cancer
+	word:cancer	entity:I-Disease_disorder
+22 1a. Lewy-Body Dementia0
+	word:22	entity:B-Lab_value
+22 1a. Lewy-Body Dementia0
+	word:lew	entity:B-Sign_symptom
+22 1a. Lewy-Body Dementia0
+	word:dementia	entity:B-Sign_symptom
+22 1a. Lewy-Body Dementia0
+	word:##0	entity:B-Lab_value
+Ia) Subarchnoid haemorrhage
+	word:sub	entity:B-Biological_structure
+Ia) Subarchnoid haemorrhage
+	word:##ar	entity:B-Biological_structure
+Ia) Subarchnoid haemorrhage
+	word:##ch	entity:I-Biological_structure
+Ia) Subarchnoid haemorrhage
+	word:##no	entity:I-Biological_structure
+Ia) Subarchnoid haemorrhage
+	word:##id	entity:I-Biological_structure
+Ia) Subarchnoid haemorrhage
+	word:ha	entity:B-Sign_symptom
+Ia) Subarchnoid haemorrhage
+	word:##em	entity:I-Sign_symptom
+Ia) Subarchnoid haemorrhage
+	word:##or	entity:I-Sign_symptom
+Ia) Subarchnoid haemorrhage
+	word:##rh	entity:I-Sign_symptom
+Ia) Subarchnoid haemorrhage
+	word:##age	entity:I-Sign_symptom
+I(a) Urinary Tract Infection; I(b) Parkinsons Disease
+	word:ur	entity:B-Biological_structure
+I(a) Urinary Tract Infection; I(b) Parkinsons Disease
+	word:##ina	entity:B-Biological_structure
+I(a) Urinary Tract Infection; I(b) Parkinsons Disease
+	word:tract	entity:I-Biological_structure
+I(a) Urinary Tract Infection; I(b) Parkinsons Disease
+	word:parkinson	entity:B-Disease_disorder
+I(a) Urinary Tract Infection; I(b) Parkinsons Disease
+	word:##s	entity:I-Disease_disorder
+I(a) Urinary Tract Infection; I(b) Parkinsons Disease
+	word:disease	entity:I-Disease_disorder
+"105 1a. Metastatic Adeno-Carcinoma of Lung (Non Small Cell); 2. Ischaemic Heart Disease, Rheumatoid Arthritis0"
+	word:105	entity:B-Lab_value
+"105 1a. Metastatic Adeno-Carcinoma of Lung (Non Small Cell); 2. Ischaemic Heart Disease, Rheumatoid Arthritis0"
+	word:meta	entity:B-Detailed_description
+"105 1a. Metastatic Adeno-Carcinoma of Lung (Non Small Cell); 2. Ischaemic Heart Disease, Rheumatoid Arthritis0"
+	word:##static	entity:B-Detailed_description
+"105 1a. Metastatic Adeno-Carcinoma of Lung (Non Small Cell); 2. Ischaemic Heart Disease, Rheumatoid Arthritis0"
+	word:aden	entity:B-Disease_disorder
+"105 1a. Metastatic Adeno-Carcinoma of Lung (Non Small Cell); 2. Ischaemic Heart Disease, Rheumatoid Arthritis0"
+	word:##o	entity:B-Disease_disorder
+"105 1a. Metastatic Adeno-Carcinoma of Lung (Non Small Cell); 2. Ischaemic Heart Disease, Rheumatoid Arthritis0"
+	word:-	entity:I-Disease_disorder
+"105 1a. Metastatic Adeno-Carcinoma of Lung (Non Small Cell); 2. Ischaemic Heart Disease, Rheumatoid Arthritis0"
+	word:car	entity:B-Disease_disorder
+"105 1a. Metastatic Adeno-Carcinoma of Lung (Non Small Cell); 2. Ischaemic Heart Disease, Rheumatoid Arthritis0"
+	word:##cino	entity:I-Disease_disorder
+"105 1a. Metastatic Adeno-Carcinoma of Lung (Non Small Cell); 2. Ischaemic Heart Disease, Rheumatoid Arthritis0"
+	word:##ma	entity:I-Disease_disorder
+"105 1a. Metastatic Adeno-Carcinoma of Lung (Non Small Cell); 2. Ischaemic Heart Disease, Rheumatoid Arthritis0"
+	word:lung	entity:B-Biological_structure
+"105 1a. Metastatic Adeno-Carcinoma of Lung (Non Small Cell); 2. Ischaemic Heart Disease, Rheumatoid Arthritis0"
+	word:r	entity:B-Disease_disorder
+"105 1a. Metastatic Adeno-Carcinoma of Lung (Non Small Cell); 2. Ischaemic Heart Disease, Rheumatoid Arthritis0"
+	word:##he	entity:I-Disease_disorder
+"105 1a. Metastatic Adeno-Carcinoma of Lung (Non Small Cell); 2. Ischaemic Heart Disease, Rheumatoid Arthritis0"
+	word:##uma	entity:I-Disease_disorder
+"105 1a. Metastatic Adeno-Carcinoma of Lung (Non Small Cell); 2. Ischaemic Heart Disease, Rheumatoid Arthritis0"
+	word:##to	entity:I-Disease_disorder
+"105 1a. Metastatic Adeno-Carcinoma of Lung (Non Small Cell); 2. Ischaemic Heart Disease, Rheumatoid Arthritis0"
+	word:##id	entity:I-Disease_disorder
+"105 1a. Metastatic Adeno-Carcinoma of Lung (Non Small Cell); 2. Ischaemic Heart Disease, Rheumatoid Arthritis0"
+	word:arthritis	entity:I-Disease_disorder
+"105 1a. Metastatic Adeno-Carcinoma of Lung (Non Small Cell); 2. Ischaemic Heart Disease, Rheumatoid Arthritis0"
+	word:##0	entity:B-Lab_value
+Ia)Cor Pulmonale; Ib)Chronic Obstructive Pulmonary Disease
+	word:chronic	entity:B-Disease_disorder
+Ia)Cor Pulmonale; Ib)Chronic Obstructive Pulmonary Disease
+	word:ob	entity:I-Disease_disorder
+Ia)Cor Pulmonale; Ib)Chronic Obstructive Pulmonary Disease
+	word:##st	entity:I-Disease_disorder
+Ia)Cor Pulmonale; Ib)Chronic Obstructive Pulmonary Disease
+	word:##ru	entity:I-Disease_disorder
+Ia)Cor Pulmonale; Ib)Chronic Obstructive Pulmonary Disease
+	word:##ctive	entity:I-Disease_disorder
+Ia)Cor Pulmonale; Ib)Chronic Obstructive Pulmonary Disease
+	word:pulmonary	entity:I-Disease_disorder
+Ia)Cor Pulmonale; Ib)Chronic Obstructive Pulmonary Disease
+	word:disease	entity:I-Disease_disorder
+Ia)Metastatic Carcinoma of Lung; Ib)Carcinoma of Caecum (Joint Causes of Death)
+	word:meta	entity:B-Detailed_description
+Ia)Metastatic Carcinoma of Lung; Ib)Carcinoma of Caecum (Joint Causes of Death)
+	word:##static	entity:B-Detailed_description
+Ia)Metastatic Carcinoma of Lung; Ib)Carcinoma of Caecum (Joint Causes of Death)
+	word:car	entity:B-Disease_disorder
+Ia)Metastatic Carcinoma of Lung; Ib)Carcinoma of Caecum (Joint Causes of Death)
+	word:##cino	entity:B-Disease_disorder
+Ia)Metastatic Carcinoma of Lung; Ib)Carcinoma of Caecum (Joint Causes of Death)
+	word:##ma	entity:I-Disease_disorder
+Ia)Metastatic Carcinoma of Lung; Ib)Carcinoma of Caecum (Joint Causes of Death)
+	word:lung	entity:B-Biological_structure
+Ia)Metastatic Carcinoma of Lung; Ib)Carcinoma of Caecum (Joint Causes of Death)
+	word:car	entity:B-Disease_disorder
+Ia)Metastatic Carcinoma of Lung; Ib)Carcinoma of Caecum (Joint Causes of Death)
+	word:##cino	entity:B-Disease_disorder
+Ia)Metastatic Carcinoma of Lung; Ib)Carcinoma of Caecum (Joint Causes of Death)
+	word:##ma	entity:I-Disease_disorder
+Ia)Metastatic Carcinoma of Lung; Ib)Carcinoma of Caecum (Joint Causes of Death)
+	word:ca	entity:B-Biological_structure
+Ia)Metastatic Carcinoma of Lung; Ib)Carcinoma of Caecum (Joint Causes of Death)
+	word:##ec	entity:I-Biological_structure
+Ia)Metastatic Carcinoma of Lung; Ib)Carcinoma of Caecum (Joint Causes of Death)
+	word:##um	entity:I-Biological_structure
+Ia)Metastatic Carcinoma of Lung; Ib)Carcinoma of Caecum (Joint Causes of Death)
+	word:joint	entity:B-Detailed_description
+1a)Metasttic Non-Small Cell Lung Cancer
+	word:meta	entity:B-Detailed_description
+1a)Metasttic Non-Small Cell Lung Cancer
+	word:##st	entity:B-Sign_symptom
+1a)Metasttic Non-Small Cell Lung Cancer
+	word:non	entity:B-Detailed_description
+1a)Metasttic Non-Small Cell Lung Cancer
+	word:cell	entity:I-Detailed_description
+1a)Metasttic Non-Small Cell Lung Cancer
+	word:lung	entity:B-Disease_disorder
+1a)Metasttic Non-Small Cell Lung Cancer
+	word:cancer	entity:I-Disease_disorder
+Ia)Myocardial Infarction and Cerebrovascular Accident; Ib)Atrial Fibrilation; II)Aortic Stenosis; Polymyalgia Rheumatica; Crohn\'s Disease; Hypertension
+	word:##rdial	entity:I-Disease_disorder
+Ia)Myocardial Infarction and Cerebrovascular Accident; Ib)Atrial Fibrilation; II)Aortic Stenosis; Polymyalgia Rheumatica; Crohn\'s Disease; Hypertension
+	word:in	entity:I-Disease_disorder
+Ia)Myocardial Infarction and Cerebrovascular Accident; Ib)Atrial Fibrilation; II)Aortic Stenosis; Polymyalgia Rheumatica; Crohn\'s Disease; Hypertension
+	word:##far	entity:I-Disease_disorder
+Ia)Myocardial Infarction and Cerebrovascular Accident; Ib)Atrial Fibrilation; II)Aortic Stenosis; Polymyalgia Rheumatica; Crohn\'s Disease; Hypertension
+	word:##ction	entity:I-Disease_disorder
+Ia)Myocardial Infarction and Cerebrovascular Accident; Ib)Atrial Fibrilation; II)Aortic Stenosis; Polymyalgia Rheumatica; Crohn\'s Disease; Hypertension
+	word:ce	entity:B-Disease_disorder
+Ia)Myocardial Infarction and Cerebrovascular Accident; Ib)Atrial Fibrilation; II)Aortic Stenosis; Polymyalgia Rheumatica; Crohn\'s Disease; Hypertension
+	word:##re	entity:I-Disease_disorder
+Ia)Myocardial Infarction and Cerebrovascular Accident; Ib)Atrial Fibrilation; II)Aortic Stenosis; Polymyalgia Rheumatica; Crohn\'s Disease; Hypertension
+	word:##bro	entity:I-Disease_disorder
+Ia)Myocardial Infarction and Cerebrovascular Accident; Ib)Atrial Fibrilation; II)Aortic Stenosis; Polymyalgia Rheumatica; Crohn\'s Disease; Hypertension
+	word:##vas	entity:I-Disease_disorder
+Ia)Myocardial Infarction and Cerebrovascular Accident; Ib)Atrial Fibrilation; II)Aortic Stenosis; Polymyalgia Rheumatica; Crohn\'s Disease; Hypertension
+	word:##cular	entity:I-Disease_disorder
+Ia)Myocardial Infarction and Cerebrovascular Accident; Ib)Atrial Fibrilation; II)Aortic Stenosis; Polymyalgia Rheumatica; Crohn\'s Disease; Hypertension
+	word:accident	entity:I-Disease_disorder
+Ia)Myocardial Infarction and Cerebrovascular Accident; Ib)Atrial Fibrilation; II)Aortic Stenosis; Polymyalgia Rheumatica; Crohn\'s Disease; Hypertension
+	word:ao	entity:B-Disease_disorder
+Ia)Myocardial Infarction and Cerebrovascular Accident; Ib)Atrial Fibrilation; II)Aortic Stenosis; Polymyalgia Rheumatica; Crohn\'s Disease; Hypertension
+	word:poly	entity:B-Disease_disorder
+Ia)Myocardial Infarction and Cerebrovascular Accident; Ib)Atrial Fibrilation; II)Aortic Stenosis; Polymyalgia Rheumatica; Crohn\'s Disease; Hypertension
+	word:##my	entity:B-Disease_disorder
+Ia)Myocardial Infarction and Cerebrovascular Accident; Ib)Atrial Fibrilation; II)Aortic Stenosis; Polymyalgia Rheumatica; Crohn\'s Disease; Hypertension
+	word:##al	entity:I-Disease_disorder
+Ia)Myocardial Infarction and Cerebrovascular Accident; Ib)Atrial Fibrilation; II)Aortic Stenosis; Polymyalgia Rheumatica; Crohn\'s Disease; Hypertension
+	word:##gia	entity:I-Disease_disorder
+Ia)Myocardial Infarction and Cerebrovascular Accident; Ib)Atrial Fibrilation; II)Aortic Stenosis; Polymyalgia Rheumatica; Crohn\'s Disease; Hypertension
+	word:r	entity:B-Disease_disorder
+Ia)Myocardial Infarction and Cerebrovascular Accident; Ib)Atrial Fibrilation; II)Aortic Stenosis; Polymyalgia Rheumatica; Crohn\'s Disease; Hypertension
+	word:##he	entity:I-Disease_disorder
+Ia)Myocardial Infarction and Cerebrovascular Accident; Ib)Atrial Fibrilation; II)Aortic Stenosis; Polymyalgia Rheumatica; Crohn\'s Disease; Hypertension
+	word:cr	entity:B-Disease_disorder
+Ia)Myocardial Infarction and Cerebrovascular Accident; Ib)Atrial Fibrilation; II)Aortic Stenosis; Polymyalgia Rheumatica; Crohn\'s Disease; Hypertension
+	word:##oh	entity:B-Disease_disorder
+Ia)Myocardial Infarction and Cerebrovascular Accident; Ib)Atrial Fibrilation; II)Aortic Stenosis; Polymyalgia Rheumatica; Crohn\'s Disease; Hypertension
+	word:##n	entity:B-Disease_disorder
+Ia)Myocardial Infarction and Cerebrovascular Accident; Ib)Atrial Fibrilation; II)Aortic Stenosis; Polymyalgia Rheumatica; Crohn\'s Disease; Hypertension
+	word:\	entity:I-Disease_disorder
+Ia)Myocardial Infarction and Cerebrovascular Accident; Ib)Atrial Fibrilation; II)Aortic Stenosis; Polymyalgia Rheumatica; Crohn\'s Disease; Hypertension
+	word:'	entity:I-Disease_disorder
+Ia)Myocardial Infarction and Cerebrovascular Accident; Ib)Atrial Fibrilation; II)Aortic Stenosis; Polymyalgia Rheumatica; Crohn\'s Disease; Hypertension
+	word:s	entity:I-Disease_disorder
+Ia)Myocardial Infarction and Cerebrovascular Accident; Ib)Atrial Fibrilation; II)Aortic Stenosis; Polymyalgia Rheumatica; Crohn\'s Disease; Hypertension
+	word:disease	entity:I-Disease_disorder
+Ia)Myocardial Infarction and Cerebrovascular Accident; Ib)Atrial Fibrilation; II)Aortic Stenosis; Polymyalgia Rheumatica; Crohn\'s Disease; Hypertension
+	word:hyper	entity:B-Sign_symptom
+Ia)Myocardial Infarction and Cerebrovascular Accident; Ib)Atrial Fibrilation; II)Aortic Stenosis; Polymyalgia Rheumatica; Crohn\'s Disease; Hypertension
+	word:##tension	entity:B-History
+"Ia) Heart Failure; Ib) Lewy Body Disease, Dementia"
+	word:lew	entity:B-Disease_disorder
+"Ia) Heart Failure; Ib) Lewy Body Disease, Dementia"
+	word:dementia	entity:B-Disease_disorder
+1a)Metastatic prostate cancer
+	word:meta	entity:B-Detailed_description
+1a)Metastatic prostate cancer
+	word:##static	entity:B-Detailed_description
+1a)Metastatic prostate cancer
+	word:prostate	entity:B-Disease_disorder
+1a)Metastatic prostate cancer
+	word:cancer	entity:I-Disease_disorder
+"134 1a. Acute Kidney Injury; 1b. Disseminated Malignancy; 2. Type 2 Diabetes Mellitus, Chronic Obstructive Pulmonary Disease, Hypertension0"
+	word:134	entity:B-Lab_value
+"134 1a. Acute Kidney Injury; 1b. Disseminated Malignancy; 2. Type 2 Diabetes Mellitus, Chronic Obstructive Pulmonary Disease, Hypertension0"
+	word:acute	entity:B-Detailed_description
+"134 1a. Acute Kidney Injury; 1b. Disseminated Malignancy; 2. Type 2 Diabetes Mellitus, Chronic Obstructive Pulmonary Disease, Hypertension0"
+	word:kidney	entity:B-Disease_disorder
+"134 1a. Acute Kidney Injury; 1b. Disseminated Malignancy; 2. Type 2 Diabetes Mellitus, Chronic Obstructive Pulmonary Disease, Hypertension0"
+	word:injury	entity:I-Disease_disorder
+"134 1a. Acute Kidney Injury; 1b. Disseminated Malignancy; 2. Type 2 Diabetes Mellitus, Chronic Obstructive Pulmonary Disease, Hypertension0"
+	word:##sse	entity:B-Disease_disorder
+"134 1a. Acute Kidney Injury; 1b. Disseminated Malignancy; 2. Type 2 Diabetes Mellitus, Chronic Obstructive Pulmonary Disease, Hypertension0"
+	word:##minated	entity:B-Disease_disorder
+"134 1a. Acute Kidney Injury; 1b. Disseminated Malignancy; 2. Type 2 Diabetes Mellitus, Chronic Obstructive Pulmonary Disease, Hypertension0"
+	word:mali	entity:I-Disease_disorder
+"134 1a. Acute Kidney Injury; 1b. Disseminated Malignancy; 2. Type 2 Diabetes Mellitus, Chronic Obstructive Pulmonary Disease, Hypertension0"
+	word:##gnan	entity:I-Disease_disorder
+"134 1a. Acute Kidney Injury; 1b. Disseminated Malignancy; 2. Type 2 Diabetes Mellitus, Chronic Obstructive Pulmonary Disease, Hypertension0"
+	word:##cy	entity:I-Disease_disorder
+"134 1a. Acute Kidney Injury; 1b. Disseminated Malignancy; 2. Type 2 Diabetes Mellitus, Chronic Obstructive Pulmonary Disease, Hypertension0"
+	word:type	entity:B-History
+"134 1a. Acute Kidney Injury; 1b. Disseminated Malignancy; 2. Type 2 Diabetes Mellitus, Chronic Obstructive Pulmonary Disease, Hypertension0"
+	word:2	entity:I-History
+"134 1a. Acute Kidney Injury; 1b. Disseminated Malignancy; 2. Type 2 Diabetes Mellitus, Chronic Obstructive Pulmonary Disease, Hypertension0"
+	word:diabetes	entity:I-History
+"134 1a. Acute Kidney Injury; 1b. Disseminated Malignancy; 2. Type 2 Diabetes Mellitus, Chronic Obstructive Pulmonary Disease, Hypertension0"
+	word:mel	entity:I-Disease_disorder
+"134 1a. Acute Kidney Injury; 1b. Disseminated Malignancy; 2. Type 2 Diabetes Mellitus, Chronic Obstructive Pulmonary Disease, Hypertension0"
+	word:##lit	entity:I-History
+"134 1a. Acute Kidney Injury; 1b. Disseminated Malignancy; 2. Type 2 Diabetes Mellitus, Chronic Obstructive Pulmonary Disease, Hypertension0"
+	word:pulmonary	entity:I-History
+"134 1a. Acute Kidney Injury; 1b. Disseminated Malignancy; 2. Type 2 Diabetes Mellitus, Chronic Obstructive Pulmonary Disease, Hypertension0"
+	word:hyper	entity:B-Lab_value
+"134 1a. Acute Kidney Injury; 1b. Disseminated Malignancy; 2. Type 2 Diabetes Mellitus, Chronic Obstructive Pulmonary Disease, Hypertension0"
+	word:##tension	entity:I-History
+"134 1a. Acute Kidney Injury; 1b. Disseminated Malignancy; 2. Type 2 Diabetes Mellitus, Chronic Obstructive Pulmonary Disease, Hypertension0"
+	word:##0	entity:B-Lab_value
+1a. Metastatic Oesophageal Cancer
+	word:meta	entity:B-Detailed_description
+1a. Metastatic Oesophageal Cancer
+	word:##static	entity:B-Detailed_description
+1a. Metastatic Oesophageal Cancer
+	word:o	entity:B-Biological_structure
+1a. Metastatic Oesophageal Cancer
+	word:##es	entity:B-Biological_structure
+1a. Metastatic Oesophageal Cancer
+	word:##op	entity:B-Biological_structure
+1a. Metastatic Oesophageal Cancer
+	word:##ha	entity:B-Biological_structure
+1a. Metastatic Oesophageal Cancer
+	word:##ge	entity:I-Biological_structure
+1a. Metastatic Oesophageal Cancer
+	word:##al	entity:I-Biological_structure
+1a. Metastatic Oesophageal Cancer
+	word:cancer	entity:B-Sign_symptom
+"Ia)Septicaemia and Hepatorenal Syndrome; Ib)Decompensated Alcoholic Liver Disease; II)Sjogren\'s Syndrome, Breast Cancer"
+	word:sept	entity:B-Sign_symptom
+"Ia)Septicaemia and Hepatorenal Syndrome; Ib)Decompensated Alcoholic Liver Disease; II)Sjogren\'s Syndrome, Breast Cancer"
+	word:##ica	entity:I-Sign_symptom
+"Ia)Septicaemia and Hepatorenal Syndrome; Ib)Decompensated Alcoholic Liver Disease; II)Sjogren\'s Syndrome, Breast Cancer"
+	word:##emia	entity:I-Sign_symptom
+"Ia)Septicaemia and Hepatorenal Syndrome; Ib)Decompensated Alcoholic Liver Disease; II)Sjogren\'s Syndrome, Breast Cancer"
+	word:he	entity:B-History
+"Ia)Septicaemia and Hepatorenal Syndrome; Ib)Decompensated Alcoholic Liver Disease; II)Sjogren\'s Syndrome, Breast Cancer"
+	word:##pa	entity:I-History
+"Ia)Septicaemia and Hepatorenal Syndrome; Ib)Decompensated Alcoholic Liver Disease; II)Sjogren\'s Syndrome, Breast Cancer"
+	word:##tore	entity:I-History
+"Ia)Septicaemia and Hepatorenal Syndrome; Ib)Decompensated Alcoholic Liver Disease; II)Sjogren\'s Syndrome, Breast Cancer"
+	word:##nal	entity:I-History
+"Ia)Septicaemia and Hepatorenal Syndrome; Ib)Decompensated Alcoholic Liver Disease; II)Sjogren\'s Syndrome, Breast Cancer"
+	word:syndrome	entity:I-History
+"Ia)Septicaemia and Hepatorenal Syndrome; Ib)Decompensated Alcoholic Liver Disease; II)Sjogren\'s Syndrome, Breast Cancer"
+	word:deco	entity:B-History
+"Ia)Septicaemia and Hepatorenal Syndrome; Ib)Decompensated Alcoholic Liver Disease; II)Sjogren\'s Syndrome, Breast Cancer"
+	word:##mp	entity:I-History
+"Ia)Septicaemia and Hepatorenal Syndrome; Ib)Decompensated Alcoholic Liver Disease; II)Sjogren\'s Syndrome, Breast Cancer"
+	word:alcoholic	entity:I-History
+"Ia)Septicaemia and Hepatorenal Syndrome; Ib)Decompensated Alcoholic Liver Disease; II)Sjogren\'s Syndrome, Breast Cancer"
+	word:liver	entity:I-Disease_disorder
+"Ia)Septicaemia and Hepatorenal Syndrome; Ib)Decompensated Alcoholic Liver Disease; II)Sjogren\'s Syndrome, Breast Cancer"
+	word:s	entity:B-Disease_disorder
+"Ia)Septicaemia and Hepatorenal Syndrome; Ib)Decompensated Alcoholic Liver Disease; II)Sjogren\'s Syndrome, Breast Cancer"
+	word:\	entity:I-Disease_disorder
+"Ia)Septicaemia and Hepatorenal Syndrome; Ib)Decompensated Alcoholic Liver Disease; II)Sjogren\'s Syndrome, Breast Cancer"
+	word:'	entity:I-Disease_disorder
+"Ia)Septicaemia and Hepatorenal Syndrome; Ib)Decompensated Alcoholic Liver Disease; II)Sjogren\'s Syndrome, Breast Cancer"
+	word:breast	entity:B-Biological_structure
+"130 1a. Metastatic Carcinoma Prostate; 2. Type 2 Diabetes, Coronary Heart Disease, Chronic Kidney Disease, Peripheral Vascular Disease0"
+	word:meta	entity:B-Detailed_description
+"130 1a. Metastatic Carcinoma Prostate; 2. Type 2 Diabetes, Coronary Heart Disease, Chronic Kidney Disease, Peripheral Vascular Disease0"
+	word:##static	entity:B-Detailed_description
+"130 1a. Metastatic Carcinoma Prostate; 2. Type 2 Diabetes, Coronary Heart Disease, Chronic Kidney Disease, Peripheral Vascular Disease0"
+	word:car	entity:B-Disease_disorder
+"130 1a. Metastatic Carcinoma Prostate; 2. Type 2 Diabetes, Coronary Heart Disease, Chronic Kidney Disease, Peripheral Vascular Disease0"
+	word:##cino	entity:B-Disease_disorder
+"130 1a. Metastatic Carcinoma Prostate; 2. Type 2 Diabetes, Coronary Heart Disease, Chronic Kidney Disease, Peripheral Vascular Disease0"
+	word:##ma	entity:I-Disease_disorder
+"130 1a. Metastatic Carcinoma Prostate; 2. Type 2 Diabetes, Coronary Heart Disease, Chronic Kidney Disease, Peripheral Vascular Disease0"
+	word:corona	entity:B-Biological_structure
+"130 1a. Metastatic Carcinoma Prostate; 2. Type 2 Diabetes, Coronary Heart Disease, Chronic Kidney Disease, Peripheral Vascular Disease0"
+	word:disease	entity:I-History
+Ia)Cholangiocarcinoma with Metastases
+	word:cho	entity:B-Disease_disorder
+Ia)Cholangiocarcinoma with Metastases
+	word:##lang	entity:B-Disease_disorder
+Ia)Cholangiocarcinoma with Metastases
+	word:##io	entity:I-Disease_disorder
+Ia)Cholangiocarcinoma with Metastases
+	word:##car	entity:I-Disease_disorder
+Ia)Cholangiocarcinoma with Metastases
+	word:##cino	entity:I-Disease_disorder
+Ia)Cholangiocarcinoma with Metastases
+	word:##ma	entity:I-Disease_disorder
+Ia)Cholangiocarcinoma with Metastases
+	word:meta	entity:B-Disease_disorder
+Ia)Cholangiocarcinoma with Metastases
+	word:##sta	entity:I-Disease_disorder
+Ia)Cholangiocarcinoma with Metastases
+	word:##ses	entity:I-Disease_disorder
+1a. Small Bowel Obstruction; 1b. Adhesions Due To Crohn\'s Disease; 2. Ischaemic Heart Disease
+	word:small	entity:B-Biological_structure
+1a. Small Bowel Obstruction; 1b. Adhesions Due To Crohn\'s Disease; 2. Ischaemic Heart Disease
+	word:bow	entity:I-Biological_structure
+1a. Small Bowel Obstruction; 1b. Adhesions Due To Crohn\'s Disease; 2. Ischaemic Heart Disease
+	word:##el	entity:I-Biological_structure
+1a. Small Bowel Obstruction; 1b. Adhesions Due To Crohn\'s Disease; 2. Ischaemic Heart Disease
+	word:ad	entity:B-Sign_symptom
+1a. Small Bowel Obstruction; 1b. Adhesions Due To Crohn\'s Disease; 2. Ischaemic Heart Disease
+	word:##hesion	entity:B-Sign_symptom
+1a. Small Bowel Obstruction; 1b. Adhesions Due To Crohn\'s Disease; 2. Ischaemic Heart Disease
+	word:##s	entity:I-Sign_symptom
+1a. Small Bowel Obstruction; 1b. Adhesions Due To Crohn\'s Disease; 2. Ischaemic Heart Disease
+	word:cr	entity:B-Disease_disorder
+1a. Small Bowel Obstruction; 1b. Adhesions Due To Crohn\'s Disease; 2. Ischaemic Heart Disease
+	word:##oh	entity:B-Disease_disorder
+1a. Small Bowel Obstruction; 1b. Adhesions Due To Crohn\'s Disease; 2. Ischaemic Heart Disease
+	word:##n	entity:B-Disease_disorder
+1a. Small Bowel Obstruction; 1b. Adhesions Due To Crohn\'s Disease; 2. Ischaemic Heart Disease
+	word:\	entity:I-Disease_disorder
+1a. Small Bowel Obstruction; 1b. Adhesions Due To Crohn\'s Disease; 2. Ischaemic Heart Disease
+	word:'	entity:I-Disease_disorder
+1a. Small Bowel Obstruction; 1b. Adhesions Due To Crohn\'s Disease; 2. Ischaemic Heart Disease
+	word:s	entity:I-Disease_disorder
+1a. Small Bowel Obstruction; 1b. Adhesions Due To Crohn\'s Disease; 2. Ischaemic Heart Disease
+	word:disease	entity:I-Disease_disorder
+1a. Small Bowel Obstruction; 1b. Adhesions Due To Crohn\'s Disease; 2. Ischaemic Heart Disease
+	word:is	entity:B-Disease_disorder
+1a. Small Bowel Obstruction; 1b. Adhesions Due To Crohn\'s Disease; 2. Ischaemic Heart Disease
+	word:##cha	entity:B-Disease_disorder
+1a. Small Bowel Obstruction; 1b. Adhesions Due To Crohn\'s Disease; 2. Ischaemic Heart Disease
+	word:##emi	entity:B-Disease_disorder
+1a. Small Bowel Obstruction; 1b. Adhesions Due To Crohn\'s Disease; 2. Ischaemic Heart Disease
+	word:##c	entity:B-Disease_disorder
+1a. Small Bowel Obstruction; 1b. Adhesions Due To Crohn\'s Disease; 2. Ischaemic Heart Disease
+	word:heart	entity:I-Disease_disorder
+1a. Small Bowel Obstruction; 1b. Adhesions Due To Crohn\'s Disease; 2. Ischaemic Heart Disease
+	word:disease	entity:I-Disease_disorder
+Ia)End Stage Cryptogenic Fibrosing Alveolitis; II)Sarcoidosis
+	word:end	entity:B-Detailed_description
+Ia)End Stage Cryptogenic Fibrosing Alveolitis; II)Sarcoidosis
+	word:stage	entity:I-Detailed_description
+Ia)End Stage Cryptogenic Fibrosing Alveolitis; II)Sarcoidosis
+	word:crypt	entity:B-Detailed_description
+Ia)End Stage Cryptogenic Fibrosing Alveolitis; II)Sarcoidosis
+	word:fi	entity:B-Disease_disorder
+Ia)End Stage Cryptogenic Fibrosing Alveolitis; II)Sarcoidosis
+	word:##bro	entity:B-Disease_disorder
+Ia)End Stage Cryptogenic Fibrosing Alveolitis; II)Sarcoidosis
+	word:al	entity:B-Disease_disorder
+Ia)End Stage Cryptogenic Fibrosing Alveolitis; II)Sarcoidosis
+	word:##ve	entity:I-Disease_disorder
+Ia)End Stage Cryptogenic Fibrosing Alveolitis; II)Sarcoidosis
+	word:##oli	entity:I-Disease_disorder
+Ia)End Stage Cryptogenic Fibrosing Alveolitis; II)Sarcoidosis
+	word:sar	entity:B-Disease_disorder
+Ia)End Stage Cryptogenic Fibrosing Alveolitis; II)Sarcoidosis
+	word:##co	entity:I-Disease_disorder
+Ia)End Stage Cryptogenic Fibrosing Alveolitis; II)Sarcoidosis
+	word:##ido	entity:I-Disease_disorder
+Ia)End Stage Cryptogenic Fibrosing Alveolitis; II)Sarcoidosis
+	word:##sis	entity:I-Disease_disorder
+27 1a. Metastatic Renal Cancer0
+	word:27	entity:B-Lab_value
+27 1a. Metastatic Renal Cancer0
+	word:meta	entity:B-Detailed_description
+27 1a. Metastatic Renal Cancer0
+	word:##static	entity:B-Detailed_description
+27 1a. Metastatic Renal Cancer0
+	word:renal	entity:B-Biological_structure
+27 1a. Metastatic Renal Cancer0
+	word:cancer	entity:B-Coreference
+27 1a. Metastatic Renal Cancer0
+	word:##0	entity:B-Lab_value
+1a. Progressive Supranuclear Palsy
+	word:progressive	entity:B-Detailed_description
+1a. Progressive Supranuclear Palsy
+	word:su	entity:B-Disease_disorder
+1a. Progressive Supranuclear Palsy
+	word:##pr	entity:B-Disease_disorder
+1a. Progressive Supranuclear Palsy
+	word:##anu	entity:I-Disease_disorder
+1a. Progressive Supranuclear Palsy
+	word:##cle	entity:I-Disease_disorder
+1a. Progressive Supranuclear Palsy
+	word:##ar	entity:I-Disease_disorder
+1a. Progressive Supranuclear Palsy
+	word:pal	entity:I-Disease_disorder
+1a. Progressive Supranuclear Palsy
+	word:##sy	entity:I-Disease_disorder
+91 1a. Bronchopneumonia; 1b. Metastatic lung cancer; 2. Neck of femur fracture - operated 20180
+	word:91	entity:B-Lab_value
+91 1a. Bronchopneumonia; 1b. Metastatic lung cancer; 2. Neck of femur fracture - operated 20180
+	word:bro	entity:B-Sign_symptom
+91 1a. Bronchopneumonia; 1b. Metastatic lung cancer; 2. Neck of femur fracture - operated 20180
+	word:##nch	entity:B-Sign_symptom
+91 1a. Bronchopneumonia; 1b. Metastatic lung cancer; 2. Neck of femur fracture - operated 20180
+	word:##op	entity:I-Sign_symptom
+91 1a. Bronchopneumonia; 1b. Metastatic lung cancer; 2. Neck of femur fracture - operated 20180
+	word:##ne	entity:I-Sign_symptom
+91 1a. Bronchopneumonia; 1b. Metastatic lung cancer; 2. Neck of femur fracture - operated 20180
+	word:##um	entity:I-Sign_symptom
+91 1a. Bronchopneumonia; 1b. Metastatic lung cancer; 2. Neck of femur fracture - operated 20180
+	word:meta	entity:B-Detailed_description
+91 1a. Bronchopneumonia; 1b. Metastatic lung cancer; 2. Neck of femur fracture - operated 20180
+	word:lung	entity:B-Biological_structure
+91 1a. Bronchopneumonia; 1b. Metastatic lung cancer; 2. Neck of femur fracture - operated 20180
+	word:neck	entity:B-Biological_structure
+91 1a. Bronchopneumonia; 1b. Metastatic lung cancer; 2. Neck of femur fracture - operated 20180
+	word:of	entity:I-Biological_structure
+91 1a. Bronchopneumonia; 1b. Metastatic lung cancer; 2. Neck of femur fracture - operated 20180
+	word:fe	entity:I-Biological_structure
+91 1a. Bronchopneumonia; 1b. Metastatic lung cancer; 2. Neck of femur fracture - operated 20180
+	word:##mur	entity:I-Biological_structure
+91 1a. Bronchopneumonia; 1b. Metastatic lung cancer; 2. Neck of femur fracture - operated 20180
+	word:fracture	entity:B-Detailed_description
+91 1a. Bronchopneumonia; 1b. Metastatic lung cancer; 2. Neck of femur fracture - operated 20180
+	word:operated	entity:B-Detailed_description
+91 1a. Bronchopneumonia; 1b. Metastatic lung cancer; 2. Neck of femur fracture - operated 20180
+	word:2018	entity:B-Detailed_description
+91 1a. Bronchopneumonia; 1b. Metastatic lung cancer; 2. Neck of femur fracture - operated 20180
+	word:##0	entity:I-Detailed_description
+Ia) Ischaemic Small Bowel; Ib) Abdominal Aortic Aneurysm
+	word:small	entity:B-Biological_structure
+Ia) Ischaemic Small Bowel; Ib) Abdominal Aortic Aneurysm
+	word:abdominal	entity:B-Biological_structure
+Ia) Ischaemic Small Bowel; Ib) Abdominal Aortic Aneurysm
+	word:ao	entity:I-Biological_structure
+Ia) Ischaemic Small Bowel; Ib) Abdominal Aortic Aneurysm
+	word:##rti	entity:I-Biological_structure
+Ia) Ischaemic Small Bowel; Ib) Abdominal Aortic Aneurysm
+	word:##c	entity:I-Biological_structure
+Ia) Ischaemic Small Bowel; Ib) Abdominal Aortic Aneurysm
+	word:an	entity:B-Disease_disorder
+Ia) Ischaemic Small Bowel; Ib) Abdominal Aortic Aneurysm
+	word:##eur	entity:B-Disease_disorder
+Ia) Ischaemic Small Bowel; Ib) Abdominal Aortic Aneurysm
+	word:##ys	entity:I-Disease_disorder
+Ia) Ischaemic Small Bowel; Ib) Abdominal Aortic Aneurysm
+	word:##m	entity:I-Disease_disorder
+1a. Mesothelioma; Verdict: contact with industrial asbestos.
+	word:me	entity:B-Disease_disorder
+1a. Mesothelioma; Verdict: contact with industrial asbestos.
+	word:##so	entity:B-Disease_disorder
+Ia)Septicaemic shock; Ib)Septicaemia; II)Liver Cirrhosis
+	word:sept	entity:B-Disease_disorder
+Ia)Septicaemic shock; Ib)Septicaemia; II)Liver Cirrhosis
+	word:sept	entity:B-Sign_symptom
+Ia)Septicaemic shock; Ib)Septicaemia; II)Liver Cirrhosis
+	word:liver	entity:B-Biological_structure
+Ia)Septicaemic shock; Ib)Septicaemia; II)Liver Cirrhosis
+	word:ci	entity:I-Disease_disorder
+Ia)Septicaemic shock; Ib)Septicaemia; II)Liver Cirrhosis
+	word:##rr	entity:I-Disease_disorder
+Ia)Septicaemic shock; Ib)Septicaemia; II)Liver Cirrhosis
+	word:##hosis	entity:I-Disease_disorder
+Ia) Carcinomatosis;Ib) Rectosigmoid adenocarcinoma
+	word:car	entity:B-Disease_disorder
+Ia) Carcinomatosis;Ib) Rectosigmoid adenocarcinoma
+	word:##cino	entity:B-Disease_disorder
+Ia) Carcinomatosis;Ib) Rectosigmoid adenocarcinoma
+	word:##mat	entity:I-Disease_disorder
+Ia) Carcinomatosis;Ib) Rectosigmoid adenocarcinoma
+	word:rec	entity:B-Disease_disorder
+Ia) Carcinomatosis;Ib) Rectosigmoid adenocarcinoma
+	word:##tos	entity:B-Disease_disorder
+Ia) Carcinomatosis;Ib) Rectosigmoid adenocarcinoma
+	word:##ig	entity:B-Disease_disorder
+Ia) Carcinomatosis;Ib) Rectosigmoid adenocarcinoma
+	word:##mo	entity:B-Disease_disorder
+Ia) Carcinomatosis;Ib) Rectosigmoid adenocarcinoma
+	word:aden	entity:B-Disease_disorder
+Ia) Carcinomatosis;Ib) Rectosigmoid adenocarcinoma
+	word:##oca	entity:I-Disease_disorder
+Ia) Carcinomatosis;Ib) Rectosigmoid adenocarcinoma
+	word:##rc	entity:B-Disease_disorder
+Ia) Carcinomatosis;Ib) Rectosigmoid adenocarcinoma
+	word:##ino	entity:I-Disease_disorder
+Ia) Carcinomatosis;Ib) Rectosigmoid adenocarcinoma
+	word:##ma	entity:I-Disease_disorder
+77 1a. Metastatic right lung squamous cell carcinoma; Conclusion: Natural Causes0
+	word:77	entity:B-Lab_value
+77 1a. Metastatic right lung squamous cell carcinoma; Conclusion: Natural Causes0
+	word:meta	entity:B-Detailed_description
+77 1a. Metastatic right lung squamous cell carcinoma; Conclusion: Natural Causes0
+	word:##static	entity:B-Detailed_description
+77 1a. Metastatic right lung squamous cell carcinoma; Conclusion: Natural Causes0
+	word:right	entity:B-Detailed_description
+77 1a. Metastatic right lung squamous cell carcinoma; Conclusion: Natural Causes0
+	word:lung	entity:B-Biological_structure
+77 1a. Metastatic right lung squamous cell carcinoma; Conclusion: Natural Causes0
+	word:sq	entity:B-Disease_disorder
+77 1a. Metastatic right lung squamous cell carcinoma; Conclusion: Natural Causes0
+	word:##ua	entity:B-Disease_disorder
+77 1a. Metastatic right lung squamous cell carcinoma; Conclusion: Natural Causes0
+	word:##mous	entity:I-Disease_disorder
+77 1a. Metastatic right lung squamous cell carcinoma; Conclusion: Natural Causes0
+	word:cell	entity:I-Disease_disorder
+77 1a. Metastatic right lung squamous cell carcinoma; Conclusion: Natural Causes0
+	word:car	entity:I-Disease_disorder
+77 1a. Metastatic right lung squamous cell carcinoma; Conclusion: Natural Causes0
+	word:##cino	entity:I-Disease_disorder
+77 1a. Metastatic right lung squamous cell carcinoma; Conclusion: Natural Causes0
+	word:##ma	entity:I-Disease_disorder
+77 1a. Metastatic right lung squamous cell carcinoma; Conclusion: Natural Causes0
+	word:natural	entity:B-Lab_value
+77 1a. Metastatic right lung squamous cell carcinoma; Conclusion: Natural Causes0
+	word:causes	entity:I-Lab_value
+77 1a. Metastatic right lung squamous cell carcinoma; Conclusion: Natural Causes0
+	word:##0	entity:B-Lab_value
+Ia) Bronchopneumonia;II) Rheumatoid Disease
+	word:bro	entity:B-Disease_disorder
+Ia) Bronchopneumonia;II) Rheumatoid Disease
+	word:##op	entity:B-Disease_disorder
+Ia) Bronchopneumonia;II) Rheumatoid Disease
+	word:##ne	entity:I-Disease_disorder
+Ia) Bronchopneumonia;II) Rheumatoid Disease
+	word:##um	entity:I-Disease_disorder
+Ia) Bronchopneumonia;II) Rheumatoid Disease
+	word:r	entity:B-Disease_disorder
+Ia) Bronchopneumonia;II) Rheumatoid Disease
+	word:##he	entity:I-Disease_disorder
+Ia) Bronchopneumonia;II) Rheumatoid Disease
+	word:##uma	entity:I-Disease_disorder
+Ia) Bronchopneumonia;II) Rheumatoid Disease
+	word:##to	entity:I-Disease_disorder
+Ia) Bronchopneumonia;II) Rheumatoid Disease
+	word:##id	entity:I-Disease_disorder
+Ia) Bronchopneumonia;II) Rheumatoid Disease
+	word:disease	entity:I-Disease_disorder
+34 1a. Metastatic lung adenocarcinoma
+	word:34	entity:B-Lab_value
+34 1a. Metastatic lung adenocarcinoma
+	word:meta	entity:B-Detailed_description
+34 1a. Metastatic lung adenocarcinoma
+	word:##static	entity:B-Detailed_description
+34 1a. Metastatic lung adenocarcinoma
+	word:lung	entity:B-Biological_structure
+34 1a. Metastatic lung adenocarcinoma
+	word:aden	entity:B-Disease_disorder
+34 1a. Metastatic lung adenocarcinoma
+	word:##oca	entity:I-Disease_disorder
+34 1a. Metastatic lung adenocarcinoma
+	word:##rc	entity:I-Disease_disorder
+34 1a. Metastatic lung adenocarcinoma
+	word:##ino	entity:I-Disease_disorder
+34 1a. Metastatic lung adenocarcinoma
+	word:##ma	entity:I-Disease_disorder
+"Ia) Metastatic oesophageal cancer; II) Type 2 diabetes, Ischaemic heart disease, Cerebrovascular disease, Deep vein thrombosis"
+	word:meta	entity:B-Detailed_description
+"Ia) Metastatic oesophageal cancer; II) Type 2 diabetes, Ischaemic heart disease, Cerebrovascular disease, Deep vein thrombosis"
+	word:##static	entity:B-Detailed_description
+"Ia) Metastatic oesophageal cancer; II) Type 2 diabetes, Ischaemic heart disease, Cerebrovascular disease, Deep vein thrombosis"
+	word:o	entity:B-Biological_structure
+"Ia) Metastatic oesophageal cancer; II) Type 2 diabetes, Ischaemic heart disease, Cerebrovascular disease, Deep vein thrombosis"
+	word:type	entity:B-Detailed_description
+"Ia) Metastatic oesophageal cancer; II) Type 2 diabetes, Ischaemic heart disease, Cerebrovascular disease, Deep vein thrombosis"
+	word:is	entity:B-History
+"Ia) Metastatic oesophageal cancer; II) Type 2 diabetes, Ischaemic heart disease, Cerebrovascular disease, Deep vein thrombosis"
+	word:ce	entity:B-Disease_disorder
+"Ia) Metastatic oesophageal cancer; II) Type 2 diabetes, Ischaemic heart disease, Cerebrovascular disease, Deep vein thrombosis"
+	word:##re	entity:I-History
+"Ia) Metastatic oesophageal cancer; II) Type 2 diabetes, Ischaemic heart disease, Cerebrovascular disease, Deep vein thrombosis"
+	word:##bro	entity:I-History
+"Ia) Metastatic oesophageal cancer; II) Type 2 diabetes, Ischaemic heart disease, Cerebrovascular disease, Deep vein thrombosis"
+	word:##vas	entity:I-History
+"Ia) Metastatic oesophageal cancer; II) Type 2 diabetes, Ischaemic heart disease, Cerebrovascular disease, Deep vein thrombosis"
+	word:##cular	entity:I-History
+"Ia) Metastatic oesophageal cancer; II) Type 2 diabetes, Ischaemic heart disease, Cerebrovascular disease, Deep vein thrombosis"
+	word:deep	entity:B-Disease_disorder
+"Ia) Metastatic oesophageal cancer; II) Type 2 diabetes, Ischaemic heart disease, Cerebrovascular disease, Deep vein thrombosis"
+	word:vein	entity:I-Disease_disorder
+"Ia) Metastatic oesophageal cancer; II) Type 2 diabetes, Ischaemic heart disease, Cerebrovascular disease, Deep vein thrombosis"
+	word:th	entity:I-Disease_disorder
+"Ia) Metastatic oesophageal cancer; II) Type 2 diabetes, Ischaemic heart disease, Cerebrovascular disease, Deep vein thrombosis"
+	word:##rom	entity:I-Disease_disorder
+"Ia) Metastatic oesophageal cancer; II) Type 2 diabetes, Ischaemic heart disease, Cerebrovascular disease, Deep vein thrombosis"
+	word:##bos	entity:I-Disease_disorder
+"Ia) Metastatic oesophageal cancer; II) Type 2 diabetes, Ischaemic heart disease, Cerebrovascular disease, Deep vein thrombosis"
+	word:##is	entity:I-Disease_disorder
+Ia)Metastatic Adenocarcinoma of the Lung
+	word:meta	entity:B-Detailed_description
+Ia)Metastatic Adenocarcinoma of the Lung
+	word:##static	entity:B-Detailed_description
+Ia)Metastatic Adenocarcinoma of the Lung
+	word:aden	entity:B-Disease_disorder
+Ia)Metastatic Adenocarcinoma of the Lung
+	word:##oca	entity:B-Disease_disorder
+Ia)Metastatic Adenocarcinoma of the Lung
+	word:##rc	entity:I-Disease_disorder
+Ia)Metastatic Adenocarcinoma of the Lung
+	word:##ino	entity:B-Disease_disorder
+Ia)Metastatic Adenocarcinoma of the Lung
+	word:##ma	entity:I-Disease_disorder
+Ia)Metastatic Adenocarcinoma of the Lung
+	word:lung	entity:B-Biological_structure
+23 1a. Cancer of the Ovary0
+	word:23	entity:B-Lab_value
+23 1a. Cancer of the Ovary0
+	word:cancer	entity:B-Sign_symptom
+23 1a. Cancer of the Ovary0
+	word:o	entity:I-Biological_structure
+23 1a. Cancer of the Ovary0
+	word:##vary	entity:I-Biological_structure
+23 1a. Cancer of the Ovary0
+	word:##0	entity:B-Lab_value
+"1a. Sepsis (Chest and Urine); 2. Liver Transplant, Long Term Immunosuppression, Bronchiectasis, Chronic Kidney Disease (CKD), Primary Biliary Cirrhosis"
+	word:sep	entity:B-Sign_symptom
+"1a. Sepsis (Chest and Urine); 2. Liver Transplant, Long Term Immunosuppression, Bronchiectasis, Chronic Kidney Disease (CKD), Primary Biliary Cirrhosis"
+	word:##sis	entity:B-Sign_symptom
+"1a. Sepsis (Chest and Urine); 2. Liver Transplant, Long Term Immunosuppression, Bronchiectasis, Chronic Kidney Disease (CKD), Primary Biliary Cirrhosis"
+	word:chest	entity:B-Biological_structure
+"1a. Sepsis (Chest and Urine); 2. Liver Transplant, Long Term Immunosuppression, Bronchiectasis, Chronic Kidney Disease (CKD), Primary Biliary Cirrhosis"
+	word:liver	entity:B-Biological_structure
+"1a. Sepsis (Chest and Urine); 2. Liver Transplant, Long Term Immunosuppression, Bronchiectasis, Chronic Kidney Disease (CKD), Primary Biliary Cirrhosis"
+	word:bro	entity:B-Disease_disorder
+"1a. Sepsis (Chest and Urine); 2. Liver Transplant, Long Term Immunosuppression, Bronchiectasis, Chronic Kidney Disease (CKD), Primary Biliary Cirrhosis"
+	word:chronic	entity:B-Disease_disorder
+"1a. Sepsis (Chest and Urine); 2. Liver Transplant, Long Term Immunosuppression, Bronchiectasis, Chronic Kidney Disease (CKD), Primary Biliary Cirrhosis"
+	word:kidney	entity:I-Disease_disorder
+"1a. Sepsis (Chest and Urine); 2. Liver Transplant, Long Term Immunosuppression, Bronchiectasis, Chronic Kidney Disease (CKD), Primary Biliary Cirrhosis"
+	word:disease	entity:I-Disease_disorder
+"1a. Sepsis (Chest and Urine); 2. Liver Transplant, Long Term Immunosuppression, Bronchiectasis, Chronic Kidney Disease (CKD), Primary Biliary Cirrhosis"
+	word:ck	entity:B-Disease_disorder
+"1a. Sepsis (Chest and Urine); 2. Liver Transplant, Long Term Immunosuppression, Bronchiectasis, Chronic Kidney Disease (CKD), Primary Biliary Cirrhosis"
+	word:primary	entity:B-Detailed_description
+"1a. Sepsis (Chest and Urine); 2. Liver Transplant, Long Term Immunosuppression, Bronchiectasis, Chronic Kidney Disease (CKD), Primary Biliary Cirrhosis"
+	word:##lia	entity:B-Biological_structure
+Ia)Liver Failure; Ib)Metastatic Pancreatic Cancer
+	word:liver	entity:B-Disease_disorder
+Ia)Liver Failure; Ib)Metastatic Pancreatic Cancer
+	word:meta	entity:B-Detailed_description
+Ia)Liver Failure; Ib)Metastatic Pancreatic Cancer
+	word:##static	entity:B-Detailed_description
+Ia)Liver Failure; Ib)Metastatic Pancreatic Cancer
+	word:pan	entity:B-Disease_disorder
+Ia)Liver Failure; Ib)Metastatic Pancreatic Cancer
+	word:##cre	entity:B-Biological_structure
+Ia)Liver Failure; Ib)Metastatic Pancreatic Cancer
+	word:##atic	entity:B-Disease_disorder
+Ia)Liver Failure; Ib)Metastatic Pancreatic Cancer
+	word:cancer	entity:I-Disease_disorder
+Ia)Metastatic Bladder Carcinoma
+	word:meta	entity:B-Detailed_description
+Ia)Metastatic Bladder Carcinoma
+	word:##static	entity:B-Detailed_description
+Ia)Metastatic Bladder Carcinoma
+	word:bladder	entity:B-Biological_structure
+Ia)Metastatic Bladder Carcinoma
+	word:car	entity:I-Disease_disorder
+Ia)Metastatic Bladder Carcinoma
+	word:##cino	entity:I-Disease_disorder
+Ia)Metastatic Bladder Carcinoma
+	word:##ma	entity:I-Disease_disorder
+1a)Glioblastoma
+	word:g	entity:B-Disease_disorder
+1a)Glioblastoma
+	word:##lio	entity:B-Disease_disorder
+1a)Glioblastoma
+	word:##bla	entity:I-Disease_disorder
+1a)Glioblastoma
+	word:##sto	entity:I-Disease_disorder
+1a)Glioblastoma
+	word:##ma	entity:I-Disease_disorder
+Arrhythmia results of the full-disclosure ECG
+	word:ar	entity:B-Sign_symptom
+Arrhythmia results of the full-disclosure ECG
+	word:##rh	entity:I-Sign_symptom
+Arrhythmia results of the full-disclosure ECG
+	word:##yt	entity:I-Sign_symptom
+Arrhythmia results of the full-disclosure ECG
+	word:##hmi	entity:I-Sign_symptom
+Arrhythmia results of the full-disclosure ECG
+	word:##a	entity:I-Sign_symptom
+Arrhythmia results of the full-disclosure ECG
+	word:full	entity:B-Detailed_description
+Arrhythmia results of the full-disclosure ECG
+	word:ec	entity:B-Diagnostic_procedure
+Arrhythmia results of the full-disclosure ECG
+	word:##g	entity:I-Diagnostic_procedure
+"CPLT: 1, ESC: 1"
+	word:cp	entity:B-Diagnostic_procedure
+"CPLT: 1, ESC: 1"
+	word:es	entity:B-Diagnostic_procedure
+"CPLT: 1, ESC: 1"
+	word:1	entity:B-Lab_value
+QRS Complexes: 3
+	word:q	entity:B-Diagnostic_procedure
+QRS Complexes: 3
+	word:##rs	entity:I-Diagnostic_procedure
+QRS Complexes: 3
+	word:complexes	entity:I-Diagnostic_procedure
+QRS Complexes: 3
+	word:3	entity:B-Lab_value
+Sinus bradycardia with marked sinus arrhythmia
+	word:sin	entity:B-Detailed_description
+Sinus bradycardia with marked sinus arrhythmia
+	word:brady	entity:B-Sign_symptom
+Sinus bradycardia with marked sinus arrhythmia
+	word:##card	entity:I-Sign_symptom
+Sinus bradycardia with marked sinus arrhythmia
+	word:##ia	entity:I-Sign_symptom
+Sinus bradycardia with marked sinus arrhythmia
+	word:marked	entity:B-Severity
+Sinus bradycardia with marked sinus arrhythmia
+	word:sin	entity:B-Biological_structure
+Sinus bradycardia with marked sinus arrhythmia
+	word:##us	entity:I-Biological_structure
+Sinus bradycardia with marked sinus arrhythmia
+	word:ar	entity:B-Sign_symptom
+Sinus bradycardia with marked sinus arrhythmia
+	word:##rh	entity:I-Sign_symptom
+Sinus bradycardia with marked sinus arrhythmia
+	word:##yt	entity:I-Sign_symptom
+Sinus bradycardia with marked sinus arrhythmia
+	word:##hmi	entity:I-Sign_symptom
+Sinus bradycardia with marked sinus arrhythmia
+	word:##a	entity:I-Sign_symptom
+Sinus rhythm with premature atrial complexes with aberrant conduction
+	word:sin	entity:B-Lab_value
+Sinus rhythm with premature atrial complexes with aberrant conduction
+	word:##us	entity:I-Lab_value
+Sinus rhythm with premature atrial complexes with aberrant conduction
+	word:rhythm	entity:I-Sign_symptom
+Sinus rhythm with premature atrial complexes with aberrant conduction
+	word:premature	entity:B-Sign_symptom
+Sinus rhythm with premature atrial complexes with aberrant conduction
+	word:at	entity:I-Sign_symptom
+Sinus rhythm with premature atrial complexes with aberrant conduction
+	word:##rial	entity:I-Sign_symptom
+Sinus rhythm with premature atrial complexes with aberrant conduction
+	word:complexes	entity:I-Sign_symptom
+Sinus rhythm with premature atrial complexes with aberrant conduction
+	word:abe	entity:B-Sign_symptom
+Sinus rhythm with premature atrial complexes with aberrant conduction
+	word:##rran	entity:B-Sign_symptom
+Sinus rhythm with premature atrial complexes with aberrant conduction
+	word:##t	entity:I-Sign_symptom
+Sinus rhythm with premature atrial complexes with aberrant conduction
+	word:conduct	entity:I-Sign_symptom
+Sinus rhythm with premature atrial complexes with aberrant conduction
+	word:##ion	entity:I-Sign_symptom
+Normal sinus rhythm with sinus arrhythmia
+	word:normal	entity:B-Lab_value
+Normal sinus rhythm with sinus arrhythmia
+	word:sin	entity:B-Diagnostic_procedure
+Normal sinus rhythm with sinus arrhythmia
+	word:##us	entity:I-Diagnostic_procedure
+Normal sinus rhythm with sinus arrhythmia
+	word:rhythm	entity:I-Diagnostic_procedure
+Normal sinus rhythm with sinus arrhythmia
+	word:sin	entity:B-Detailed_description
+Normal sinus rhythm with sinus arrhythmia
+	word:##us	entity:I-Lab_value
+Normal sinus rhythm with sinus arrhythmia
+	word:ar	entity:B-Sign_symptom
+Normal sinus rhythm with sinus arrhythmia
+	word:##rh	entity:I-Sign_symptom
+Normal sinus rhythm with sinus arrhythmia
+	word:##yt	entity:I-Sign_symptom
+Normal sinus rhythm with sinus arrhythmia
+	word:##hmi	entity:I-Sign_symptom
+Normal sinus rhythm with sinus arrhythmia
+	word:##a	entity:I-Sign_symptom
+Sinus rhythm with occasional premature ventricular complexes	word:sin	entity:B-Lab_value
+Sinus rhythm with occasional premature ventricular complexes	word:##us	entity:I-Lab_value
+Sinus rhythm with occasional premature ventricular complexes	word:rhythm	entity:I-Lab_value
+Sinus rhythm with occasional premature ventricular complexes	word:occasional	entity:B-Frequency
+Sinus rhythm with occasional premature ventricular complexes	word:premature	entity:B-Sign_symptom
+Sinus rhythm with occasional premature ventricular complexes	word:vent	entity:I-Sign_symptom
+Sinus rhythm with occasional premature ventricular complexes	word:##ric	entity:I-Sign_symptom
+Sinus rhythm with occasional premature ventricular complexes	word:##ular	entity:I-Sign_symptom
+Sinus rhythm with occasional premature ventricular complexes	word:complexes	entity:I-Sign_symptom

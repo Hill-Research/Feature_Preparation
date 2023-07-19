@@ -1,0 +1,458 @@
+Unnamed: 0
+	word:unnamed	entity:B-Diagnostic_procedure
+Unnamed: 0
+	word:0	entity:B-Lab_value
+Ia
+	word:ia	entity:B-Diagnostic_procedure
+Metastatic
+	word:meta	entity:B-Detailed_description
+Metastatic
+	word:##static	entity:B-Lab_value
+Renal
+	word:renal	entity:B-Biological_structure
+Cell
+	word:cell	entity:B-Detailed_description
+Carcinoma
+	word:car	entity:B-Disease_disorder
+Carcinoma
+	word:##cino	entity:B-Disease_disorder
+Carcinoma
+	word:##ma	entity:I-Disease_disorder
+2
+	word:2	entity:B-Lab_value
+Selective
+	word:selective	entity:B-Detailed_description
+Renal
+	word:renal	entity:B-Biological_structure
+Artery
+	word:artery	entity:B-Biological_structure
+Embolisation
+	word:em	entity:B-Therapeutic_procedure
+Embolisation
+	word:##bol	entity:I-Therapeutic_procedure
+Embolisation
+	word:##isation	entity:I-Therapeutic_procedure
+COPD
+	word:cop	entity:B-Disease_disorder
+COPD
+	word:##d	entity:I-Disease_disorder
+(
+	word:(	entity:I-Weight
+Chronic
+	word:chronic	entity:B-Detailed_description
+Obstructive
+	word:ob	entity:B-Detailed_description
+Obstructive
+	word:##st	entity:I-Detailed_description
+Obstructive
+	word:##ru	entity:I-Detailed_description
+Obstructive
+	word:##ctive	entity:I-Detailed_description
+Pulmonary
+	word:pulmonary	entity:B-Biological_structure
+Disease
+	word:disease	entity:B-Disease_disorder
+AF
+	word:af	entity:B-Detailed_description
+(
+	word:(	entity:I-Weight
+Atrial
+	word:at	entity:B-Biological_structure
+Atrial
+	word:##rial	entity:B-Biological_structure
+Fibrillation
+	word:fi	entity:B-Sign_symptom
+Fibrillation
+	word:##bri	entity:I-Sign_symptom
+Fibrillation
+	word:##llation	entity:I-Sign_symptom
+(
+	word:(	entity:I-Weight
+R
+	word:r	entity:B-Lab_value
+Nephrectomy
+	word:ne	entity:B-Therapeutic_procedure
+Nephrectomy
+	word:##ph	entity:B-Therapeutic_procedure
+Nephrectomy
+	word:##re	entity:B-Therapeutic_procedure
+Nephrectomy
+	word:##ct	entity:I-Therapeutic_procedure
+Nephrectomy
+	word:##omy	entity:I-Therapeutic_procedure
+renal
+	word:renal	entity:B-Biological_structure
+cell
+	word:cell	entity:B-Detailed_description
+carcinoma
+	word:car	entity:B-Disease_disorder
+carcinoma
+	word:##cino	entity:B-Disease_disorder
+carcinoma
+	word:##ma	entity:I-Disease_disorder
+HTN
+	word:h	entity:B-Coreference
+HTN
+	word:##t	entity:B-Coreference
+HTN
+	word:##n	entity:B-Coreference
+(
+	word:(	entity:I-Weight
+Hypertension
+	word:hyper	entity:B-Sign_symptom
+Hypertension
+	word:##tension	entity:I-Sign_symptom
+Unnamed: 0
+	word:unnamed	entity:B-Diagnostic_procedure
+Unnamed: 0
+	word:0	entity:B-Lab_value
+Ia
+	word:ia	entity:B-Diagnostic_procedure
+Respiratory
+	word:respiratory	entity:B-Biological_structure
+Cardiac
+	word:cardiac	entity:B-Biological_structure
+Arrest
+	word:arrest	entity:B-Diagnostic_procedure
+Lobectomy
+	word:lobe	entity:B-Coreference
+Lobectomy
+	word:##ct	entity:I-Therapeutic_procedure
+Lobectomy
+	word:##omy	entity:I-Therapeutic_procedure
+Squamous
+	word:sq	entity:B-Detailed_description
+Squamous
+	word:##ua	entity:I-Detailed_description
+Squamous
+	word:##mous	entity:I-Detailed_description
+Cell
+	word:cell	entity:B-Detailed_description
+Carcinoma
+	word:car	entity:B-Disease_disorder
+Carcinoma
+	word:##cino	entity:B-Disease_disorder
+Carcinoma
+	word:##ma	entity:I-Disease_disorder
+Lung
+	word:lung	entity:B-Biological_structure
+II
+	word:ii	entity:B-Lab_value
+Ischaemic
+	word:is	entity:B-Sign_symptom
+Ischaemic
+	word:##cha	entity:B-Sign_symptom
+Ischaemic
+	word:##emi	entity:B-Sign_symptom
+Ischaemic
+	word:##c	entity:I-Lab_value
+Heart
+	word:heart	entity:B-Biological_structure
+Disease
+	word:disease	entity:B-Disease_disorder
+Mixed
+	word:mixed	entity:B-Lab_value
+Dust
+	word:dust	entity:B-Sign_symptom
+Pneumoconiosis
+	word:p	entity:B-Disease_disorder
+Pneumoconiosis
+	word:##ne	entity:B-Disease_disorder
+Pneumoconiosis
+	word:##um	entity:I-Disease_disorder
+Pneumoconiosis
+	word:##oco	entity:I-Disease_disorder
+Pneumoconiosis
+	word:##nio	entity:B-Disease_disorder
+Pneumoconiosis
+	word:##sis	entity:I-Disease_disorder
+Hypertensive
+	word:hyper	entity:B-Sign_symptom
+Hypertensive
+	word:##tens	entity:B-Sign_symptom
+Hypertensive
+	word:##ive	entity:I-Sign_symptom
+Left
+	word:left	entity:B-Detailed_description
+Ventricular
+	word:vent	entity:B-Biological_structure
+Ventricular
+	word:##ric	entity:I-Biological_structure
+Ventricular
+	word:##ular	entity:I-Biological_structure
+Hypertrophy
+	word:hyper	entity:B-Sign_symptom
+Hypertrophy
+	word:##tro	entity:B-Sign_symptom
+Hypertrophy
+	word:##phy	entity:I-Sign_symptom
+Verdict
+	word:verdict	entity:B-Clinical_event
+deceased
+	word:deceased	entity:B-Family_history
+died
+	word:died	entity:B-Outcome
+as
+	word:as	entity:B-Detailed_description
+a
+	word:a	entity:B-Lab_value
+result
+	word:result	entity:B-Diagnostic_procedure
+a
+	word:a	entity:B-Lab_value
+recognised
+	word:recognised	entity:B-Qualitative_concept
+Study Population
+	word:study	entity:B-Diagnostic_procedure
+Study Population
+	word:population	entity:I-Diagnostic_procedure
+Recruiting the neonatal (Newborn) population. Currently there is no definite way of identifying which infant would need surfactant so this research would study study the value of lung ultrasound in predicting which infant would benefit from surfactant
+	word:surf	entity:B-Medication
+Recruiting the neonatal (Newborn) population. Currently there is no definite way of identifying which infant would need surfactant so this research would study study the value of lung ultrasound in predicting which infant would benefit from surfactant
+	word:##act	entity:I-Medication
+Recruiting the neonatal (Newborn) population. Currently there is no definite way of identifying which infant would need surfactant so this research would study study the value of lung ultrasound in predicting which infant would benefit from surfactant
+	word:##ant	entity:I-Medication
+Recruiting the neonatal (Newborn) population. Currently there is no definite way of identifying which infant would need surfactant so this research would study study the value of lung ultrasound in predicting which infant would benefit from surfactant
+	word:lung	entity:B-Biological_structure
+Recruiting the neonatal (Newborn) population. Currently there is no definite way of identifying which infant would need surfactant so this research would study study the value of lung ultrasound in predicting which infant would benefit from surfactant
+	word:ultrasound	entity:B-Diagnostic_procedure
+Recruiting the neonatal (Newborn) population. Currently there is no definite way of identifying which infant would need surfactant so this research would study study the value of lung ultrasound in predicting which infant would benefit from surfactant
+	word:surf	entity:B-Medication
+Recruiting the neonatal (Newborn) population. Currently there is no definite way of identifying which infant would need surfactant so this research would study study the value of lung ultrasound in predicting which infant would benefit from surfactant
+	word:##act	entity:B-Medication
+Recruiting the neonatal (Newborn) population. Currently there is no definite way of identifying which infant would need surfactant so this research would study study the value of lung ultrasound in predicting which infant would benefit from surfactant
+	word:##ant	entity:I-Medication
+Gestational age ≤34 weeks based on last menstrual period or ultrasound dating.
+	word:ge	entity:B-Diagnostic_procedure
+Gestational age ≤34 weeks based on last menstrual period or ultrasound dating.
+	word:##station	entity:I-Diagnostic_procedure
+Gestational age ≤34 weeks based on last menstrual period or ultrasound dating.
+	word:##al	entity:I-Diagnostic_procedure
+Gestational age ≤34 weeks based on last menstrual period or ultrasound dating.
+	word:age	entity:I-Diagnostic_procedure
+Gestational age ≤34 weeks based on last menstrual period or ultrasound dating.
+	word:≤	entity:B-Date
+Gestational age ≤34 weeks based on last menstrual period or ultrasound dating.
+	word:##34	entity:I-Date
+Gestational age ≤34 weeks based on last menstrual period or ultrasound dating.
+	word:weeks	entity:I-Date
+Gestational age ≤34 weeks based on last menstrual period or ultrasound dating.
+	word:men	entity:B-Diagnostic_procedure
+Gestational age ≤34 weeks based on last menstrual period or ultrasound dating.
+	word:##st	entity:I-Diagnostic_procedure
+Gestational age ≤34 weeks based on last menstrual period or ultrasound dating.
+	word:##ru	entity:I-Other_event
+Gestational age ≤34 weeks based on last menstrual period or ultrasound dating.
+	word:##al	entity:I-Diagnostic_procedure
+Gestational age ≤34 weeks based on last menstrual period or ultrasound dating.
+	word:period	entity:I-Diagnostic_procedure
+Gestational age ≤34 weeks based on last menstrual period or ultrasound dating.
+	word:ultrasound	entity:B-Diagnostic_procedure
+Non-invasive respiratory support or low flow oxygen needing neonatal unit admission
+	word:non	entity:B-Detailed_description
+Non-invasive respiratory support or low flow oxygen needing neonatal unit admission
+	word:invasive	entity:I-Detailed_description
+Non-invasive respiratory support or low flow oxygen needing neonatal unit admission
+	word:respiratory	entity:B-Therapeutic_procedure
+Non-invasive respiratory support or low flow oxygen needing neonatal unit admission
+	word:support	entity:I-Therapeutic_procedure
+Non-invasive respiratory support or low flow oxygen needing neonatal unit admission
+	word:low	entity:B-Lab_value
+Non-invasive respiratory support or low flow oxygen needing neonatal unit admission
+	word:flow	entity:I-Detailed_description
+Non-invasive respiratory support or low flow oxygen needing neonatal unit admission
+	word:oxygen	entity:I-Therapeutic_procedure
+Non-invasive respiratory support or low flow oxygen needing neonatal unit admission
+	word:neon	entity:B-Clinical_event
+Non-invasive respiratory support or low flow oxygen needing neonatal unit admission
+	word:##atal	entity:B-Clinical_event
+Non-invasive respiratory support or low flow oxygen needing neonatal unit admission
+	word:unit	entity:I-Therapeutic_procedure
+Non-invasive respiratory support or low flow oxygen needing neonatal unit admission
+	word:admission	entity:B-Clinical_event
+Received surfactant before first LU (<3hrs of life).
+	word:surf	entity:B-Medication
+Received surfactant before first LU (<3hrs of life).
+	word:##act	entity:B-Medication
+Received surfactant before first LU (<3hrs of life).
+	word:##ant	entity:I-Medication
+Received surfactant before first LU (<3hrs of life).
+	word:lu	entity:B-Therapeutic_procedure
+Major congenital malformations including congenital lung disease and congenital heart disease as ascertained by the medical team.
+	word:congenital	entity:B-History
+Major congenital malformations including congenital lung disease and congenital heart disease as ascertained by the medical team.
+	word:mal	entity:I-Disease_disorder
+Major congenital malformations including congenital lung disease and congenital heart disease as ascertained by the medical team.
+	word:##form	entity:I-Disease_disorder
+Major congenital malformations including congenital lung disease and congenital heart disease as ascertained by the medical team.
+	word:##ations	entity:I-Disease_disorder
+Major congenital malformations including congenital lung disease and congenital heart disease as ascertained by the medical team.
+	word:congenital	entity:B-History
+Major congenital malformations including congenital lung disease and congenital heart disease as ascertained by the medical team.
+	word:lung	entity:B-Disease_disorder
+Major congenital malformations including congenital lung disease and congenital heart disease as ascertained by the medical team.
+	word:disease	entity:I-Disease_disorder
+Major congenital malformations including congenital lung disease and congenital heart disease as ascertained by the medical team.
+	word:congenital	entity:B-Disease_disorder
+Major congenital malformations including congenital lung disease and congenital heart disease as ascertained by the medical team.
+	word:heart	entity:I-Disease_disorder
+Major congenital malformations including congenital lung disease and congenital heart disease as ascertained by the medical team.
+	word:disease	entity:I-Disease_disorder
+Infants receiving delivery room surfactant or required intubation shortly after admission.
+	word:infants	entity:B-Subject
+Infants receiving delivery room surfactant or required intubation shortly after admission.
+	word:delivery	entity:B-Clinical_event
+Infants receiving delivery room surfactant or required intubation shortly after admission.
+	word:room	entity:I-Therapeutic_procedure
+Infants receiving delivery room surfactant or required intubation shortly after admission.
+	word:surf	entity:B-Therapeutic_procedure
+Infants receiving delivery room surfactant or required intubation shortly after admission.
+	word:##act	entity:I-Therapeutic_procedure
+Infants receiving delivery room surfactant or required intubation shortly after admission.
+	word:##ant	entity:I-Therapeutic_procedure
+Infants receiving delivery room surfactant or required intubation shortly after admission.
+	word:int	entity:B-Therapeutic_procedure
+Infants receiving delivery room surfactant or required intubation shortly after admission.
+	word:##uba	entity:B-Therapeutic_procedure
+Infants receiving delivery room surfactant or required intubation shortly after admission.
+	word:##tion	entity:I-Therapeutic_procedure
+Infants diagnosed with pneumothorax needing needle or chest tube drainage	word:p	entity:B-Disease_disorder
+Infants diagnosed with pneumothorax needing needle or chest tube drainage	word:##ne	entity:I-Disease_disorder
+Infants diagnosed with pneumothorax needing needle or chest tube drainage	word:##um	entity:I-Disease_disorder
+Infants diagnosed with pneumothorax needing needle or chest tube drainage	word:##otho	entity:I-Disease_disorder
+Infants diagnosed with pneumothorax needing needle or chest tube drainage	word:##ra	entity:I-Disease_disorder
+Infants diagnosed with pneumothorax needing needle or chest tube drainage	word:##x	entity:I-Disease_disorder
+Infants diagnosed with pneumothorax needing needle or chest tube drainage	word:needle	entity:B-Therapeutic_procedure
+Infants diagnosed with pneumothorax needing needle or chest tube drainage	word:chest	entity:B-Biological_structure
+Infants diagnosed with pneumothorax needing needle or chest tube drainage	word:tube	entity:I-Therapeutic_procedure
+Infants diagnosed with pneumothorax needing needle or chest tube drainage	word:drainage	entity:I-Therapeutic_procedure
+Unnamed: 0
+	word:unnamed	entity:B-Diagnostic_procedure
+Unnamed: 0
+	word:0	entity:B-Lab_value
+306
+	word:306	entity:B-Lab_value
+1a
+	word:1a	entity:B-Lab_value
+Hypoxic
+	word:h	entity:B-Sign_symptom
+Hypoxic
+	word:##yp	entity:B-Sign_symptom
+Hypoxic
+	word:##ox	entity:B-Sign_symptom
+Hypoxic
+	word:##ic	entity:I-Sign_symptom
+-
+	word:-	entity:B-Coreference
+ischaemic
+	word:is	entity:B-Sign_symptom
+ischaemic
+	word:##cha	entity:B-Sign_symptom
+ischaemic
+	word:##emi	entity:B-Sign_symptom
+ischaemic
+	word:##c	entity:I-Lab_value
+encephalopathy
+	word:en	entity:B-Disease_disorder
+encephalopathy
+	word:##ce	entity:I-Disease_disorder
+encephalopathy
+	word:##pha	entity:I-Disease_disorder
+encephalopathy
+	word:##lo	entity:I-Disease_disorder
+encephalopathy
+	word:##pathy	entity:I-Disease_disorder
+secondary
+	word:secondary	entity:B-Detailed_description
+ventricular
+	word:vent	entity:B-Biological_structure
+ventricular
+	word:##ric	entity:I-Biological_structure
+ventricular
+	word:##ular	entity:I-Biological_structure
+fibrillation
+	word:fi	entity:B-Sign_symptom
+fibrillation
+	word:##bri	entity:I-Sign_symptom
+fibrillation
+	word:##llation	entity:I-Sign_symptom
+cardiac
+	word:cardiac	entity:B-Biological_structure
+arrest
+	word:arrest	entity:B-Diagnostic_procedure
+1b
+	word:1b	entity:B-Lab_value
+Malfunction
+	word:mal	entity:B-Sign_symptom
+Malfunction
+	word:##fu	entity:I-Sign_symptom
+Malfunction
+	word:##nction	entity:I-Disease_disorder
+implanted
+	word:implant	entity:B-Therapeutic_procedure
+implanted
+	word:##ed	entity:B-Therapeutic_procedure
+cardiac
+	word:cardiac	entity:B-Biological_structure
+pacemaker
+	word:pace	entity:B-Therapeutic_procedure
+pacemaker
+	word:##maker	entity:I-Therapeutic_procedure
+1c
+	word:1	entity:B-Lab_value
+1c
+	word:##c	entity:I-Lab_value
+Atrial
+	word:at	entity:B-Biological_structure
+Atrial
+	word:##rial	entity:B-Biological_structure
+Fibrillation
+	word:fi	entity:B-Sign_symptom
+Fibrillation
+	word:##bri	entity:I-Sign_symptom
+Fibrillation
+	word:##llation	entity:I-Sign_symptom
+2
+	word:2	entity:B-Lab_value
+Mitral
+	word:mit	entity:B-Biological_structure
+Mitral
+	word:##ral	entity:B-Biological_structure
+Valve
+	word:valve	entity:B-Coreference
+replacement
+	word:replacement	entity:B-Therapeutic_procedure
+mitral
+	word:mit	entity:B-Biological_structure
+mitral
+	word:##ral	entity:B-Biological_structure
+stenosis
+	word:ste	entity:B-Coreference
+stenosis
+	word:##nosis	entity:I-Sign_symptom
+pulmonary
+	word:pulmonary	entity:B-Biological_structure
+hypertension
+	word:hyper	entity:B-Sign_symptom
+hypertension
+	word:##tension	entity:I-Sign_symptom
+systemic
+	word:systemic	entity:B-Detailed_description
+hypertension
+	word:hyper	entity:B-Sign_symptom
+hypertension
+	word:##tension	entity:I-Sign_symptom
+rheumatic
+	word:r	entity:B-Detailed_description
+rheumatic
+	word:##he	entity:I-Detailed_description
+rheumatic
+	word:##umatic	entity:B-Detailed_description
+fever
+	word:fever	entity:B-Sign_symptom
+Natural
+	word:natural	entity:B-Detailed_description
+Causes0
+	word:causes	entity:B-Lab_value
+Causes0
+	word:##0	entity:B-Lab_value

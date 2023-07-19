@@ -1,0 +1,4 @@
+非妊娠期	DIAGNOSIS
+19.0~26.0kg/ m2范围内	TEST_RESULT
+体重指数（BMI）	TEST_NAME
+生育计划	SYMPTOM

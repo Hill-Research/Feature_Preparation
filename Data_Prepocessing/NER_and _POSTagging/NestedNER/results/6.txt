@@ -1,0 +1,2 @@
+体重指数【BMI=体重（kg）/身高2（m2）	TEST_NAME
+体重（kg）/身高2（m2）	TEST_NAME

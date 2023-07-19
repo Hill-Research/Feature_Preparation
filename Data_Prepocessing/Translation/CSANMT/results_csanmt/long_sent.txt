@@ -1,0 +1,50 @@
+32 1a. Metastatic Colorectal Cancer0	 --------32 1a. 转移性结直肠癌 0
+54 1a. Metastatic Lung Cancer; 2. Ischaemic Heart Disease0	 --------54 1a. 转移性肺癌 ； 2. 缺血性心脏病 0
+Ia) Metastatic transitional cell carcinoma of the bladder	 --------Ia ） 膀胱转移性移行细胞癌
+Ia)Ischaemic Bowel; Ib)Septic Shock; Ic)Urinary Tract Infection	 --------Ia) 肠缺血; Ib) 感染性休克; Ic) 尿路感染
+Ia) Carcinomatosis;Ib) Adenocarcinoma of oesphagus	 --------Ia ） 癌病 ； Ib ） 卵巢腺癌
+Ia)Metastatic Breast Cancer	 --------Ia) 转移性乳腺癌
+109 1a. Acute Kidney Failure; 1b. Recurrent Pseudo-Obstruction; 2. Cerebrovascular Disease With Thrombotic Stroke0	 --------109 1a. 急性肾功能衰竭 ； 1b. 复发性假性梗阻 ； 2. 脑血管疾病伴血栓性卒中 0
+Ia)Carbon Monoxide Poisoning; Verdict: Death was due to an accident	 --------Ia ） 一氧化碳中毒 ； 判决 ： 死亡是由于事故造成的
+1a. Pancreatic Cancer	 --------1a. 胰腺癌
+22 1a. Lewy-Body Dementia0	 --------22 1a. 路易体痴呆 0
+Ia) Subarchnoid haemorrhage	 --------Ia) 蛛网膜下腔出血
+I(a) Urinary Tract Infection; I(b) Parkinsons Disease	 --------I (a) 尿路感染 ； I (b) 帕金森病
+"105 1a. Metastatic Adeno-Carcinoma of Lung (Non Small Cell); 2. Ischaemic Heart Disease, Rheumatoid Arthritis0"	 --------“105 1a 。转移性肺腺癌 （ 非小细胞 ） ； 2 。缺血性心脏病 ， 类风湿关节炎 0 ”
+Ia)Cor Pulmonale; Ib)Chronic Obstructive Pulmonary Disease	 --------Ia) 肺心病; Ib) 慢性阻塞性肺疾病
+Ia)Metastatic Carcinoma of Lung; Ib)Carcinoma of Caecum (Joint Causes of Death)	 --------Ia ） 转移性肺癌 ； Ib ） 盲肠癌 （ 死亡的联合原因 ）
+1a)Metasttic Non-Small Cell Lung Cancer	 --------1a) 转移性非小细胞肺癌
+Ia)Myocardial Infarction and Cerebrovascular Accident; Ib)Atrial Fibrilation; II)Aortic Stenosis; Polymyalgia Rheumatica; Crohn\'s Disease; Hypertension	 --------Ia) 心肌梗塞和脑血管意外; Ib) 心房颤动; II) 主动脉狭窄; 风湿性多肌痛; 克罗恩病; 高血压
+"Ia) Heart Failure; Ib) Lewy Body Disease, Dementia"	 --------“Ia ） 心力衰竭 ； Ib ） 路易体病 ， 痴呆症 ”
+1a)Metastatic prostate cancer	 --------1a) 转移性前列腺癌
+"134 1a. Acute Kidney Injury; 1b. Disseminated Malignancy; 2. Type 2 Diabetes Mellitus, Chronic Obstructive Pulmonary Disease, Hypertension0"	 --------“134 1a 。急性肾损伤 ； 1b 。弥漫性恶性肿瘤 ； 2 。 2 型糖尿病 ， 慢性阻塞性肺疾病 ， 高血压 0 ”
+1a. Metastatic Oesophageal Cancer	 --------1a. 转移性食管癌
+"Ia)Septicaemia and Hepatorenal Syndrome; Ib)Decompensated Alcoholic Liver Disease; II)Sjogren\'s Syndrome, Breast Cancer"	 --------“Ia ） 败血症和肝肾综合征 ； Ib ） 失代偿性酒精性肝病 ； II ） 干燥综合征 ， 乳腺癌 ”
+"130 1a. Metastatic Carcinoma Prostate; 2. Type 2 Diabetes, Coronary Heart Disease, Chronic Kidney Disease, Peripheral Vascular Disease0"	 --------“130 1a 。转移性前列腺癌 ； 2 。 2 型糖尿病 ， 冠心病 ， 慢性肾脏疾病 ， 周围血管疾病 0 ”
+Ia)Cholangiocarcinoma with Metastases	 --------Ia ） 胆管癌转移
+1a. Small Bowel Obstruction; 1b. Adhesions Due To Crohn\'s Disease; 2. Ischaemic Heart Disease	 --------1a. 小肠梗阻 ； 1b. 克罗恩病引起的粘连 ； 2. 缺血性心脏病
+Ia)End Stage Cryptogenic Fibrosing Alveolitis; II)Sarcoidosis	 --------Ia ） 终末期隐源性纤维化肺泡炎 ； II ） 结节病
+27 1a. Metastatic Renal Cancer0	 --------27 1a. 转移性肾癌 0
+1a. Progressive Supranuclear Palsy	 --------1a. 进行性核上性麻痹
+91 1a. Bronchopneumonia; 1b. Metastatic lung cancer; 2. Neck of femur fracture - operated 20180	 --------91 1a. 支气管肺炎 ； 1b. 转移性肺癌 ； 2. 股骨颈骨折 - 手术治疗 20180
+Ia) Ischaemic Small Bowel; Ib) Abdominal Aortic Aneurysm	 --------Ia) 缺血性小肠; Ib) 腹主动脉瘤
+1a. Mesothelioma; Verdict: contact with industrial asbestos.	 --------1a. 间皮瘤 ； 判决 ： 与工业石棉接触。
+Ia)Septicaemic shock; Ib)Septicaemia; II)Liver Cirrhosis	 --------Ia ） 败血症性休克 ； Ib ） 败血症 ； II ） 肝硬化
+Ia) Carcinomatosis;Ib) Rectosigmoid adenocarcinoma	 --------Ia) 癌; Ib) 直肠乙状结肠腺癌
+77 1a. Metastatic right lung squamous cell carcinoma; Conclusion: Natural Causes0	 --------77 1a 。转移性右肺鳞状细胞癌 ； 结论 ： 自然原因 0
+Ia) Bronchopneumonia;II) Rheumatoid Disease	 --------Ia) 支气管肺炎; II) 类风湿性关节炎
+34 1a. Metastatic lung adenocarcinoma	 --------34 1a. 转移性肺腺癌
+"Ia) Metastatic oesophageal cancer; II) Type 2 diabetes, Ischaemic heart disease, Cerebrovascular disease, Deep vein thrombosis"	 --------“Ia ） 转移性食管癌 ； II ） 2 型糖尿病 ， 缺血性心脏病 ， 脑血管疾病 ， 深静脉血栓形成 ”
+Ia)Metastatic Adenocarcinoma of the Lung	 --------Ia ） 肺转移性腺癌
+23 1a. Cancer of the Ovary0	 --------23 1a. Ovary0 的癌症
+"1a. Sepsis (Chest and Urine); 2. Liver Transplant, Long Term Immunosuppression, Bronchiectasis, Chronic Kidney Disease (CKD), Primary Biliary Cirrhosis"	 --------“1a 。脓毒症 （ 胸部和尿液 ） ； 2 。肝移植 ， 长期免疫抑制 ， 支气管扩张 ， 慢性肾脏疾病 （ CKD ） ， 原发性胆汁性肝硬化 ”
+Ia)Liver Failure; Ib)Metastatic Pancreatic Cancer	 --------Ia) 肝衰竭; Ib) 转移性胰腺癌
+Ia)Metastatic Bladder Carcinoma	 --------Ia ） 转移性膀胱癌
+1a)Glioblastoma	 --------1a) 胶质母细胞瘤
+Arrhythmia results of the full-disclosure ECG	 --------全公开心电图的心律失常结果
+"CPLT: 1, ESC: 1"	 --------"CPLT: 1 ， ESC: 1"
+QRS Complexes: 3	 --------QRS 复合体 ： 3
+Sinus bradycardia with marked sinus arrhythmia	 --------窦性心动过缓伴明显窦性心律失常
+Sinus rhythm with premature atrial complexes with aberrant conduction	 --------房性早搏传导异常的窦性心律
+Normal sinus rhythm with sinus arrhythmia	 --------正常窦性心律伴有窦性心律失常
+Sinus rhythm with occasional premature ventricular complexes	 --------窦性心律伴偶发室性早搏

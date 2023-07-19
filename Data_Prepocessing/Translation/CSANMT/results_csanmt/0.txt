@@ -1,0 +1,40 @@
+Unnamed: 0	未命名: 0
+""""	"" "" "
+202	202
+1a	1a
+.	.
+Progressive	渐进式
+renal	renal
+failure	failure
+,	,
+Pneumonia	肺炎
+;	;
+1b	1b
+.	.
+Chronic	慢性
+kidney	肾
+disease	疾病
+,	,
+Chronic	慢性
+obstructive	阻塞性
+pulmonary	肺性
+disease	疾病
+;	;
+2	2
+.	.
+Atrial	心房
+fibrillation	纤维性颤动
+,	,
+Heart	Heart
+failure	failure
+,	,
+Type	类型
+2	2
+diabetes	糖尿病
+,	,
+Hypertension	高血压
+,	,
+Ischaemic	缺血
+heart	心
+disease0	disease0
+""""	"" "" "

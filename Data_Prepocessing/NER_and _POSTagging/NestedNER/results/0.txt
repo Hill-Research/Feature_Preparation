@@ -1,0 +1,13 @@
+3	男性体重≥	TEST_NAME
+女性体重≥	TEST_NAME
+体重指数	TEST_NAME
+生命体征检查	TEST_NAME
+正常或异常	TEST_RESULT
+血常规	TEST_NAME
+尿常规	TEST_NAME
+术前四项	TEST_NAME
+乙肝表面抗原	TEST_NAME
+丙肝抗体	TEST_NAME
+梅毒螺旋体抗体	TEST_NAME
+艾滋病抗体	TEST_NAME
+心电图	TEST_NAME

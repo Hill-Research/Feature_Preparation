@@ -1,0 +1,45 @@
+Unnamed: 0	未命名: 0
+""""	"" "" "
+Ia	Ia
+)	)
+Respiratory	Respiratory
+and	and
+Cardiac	心脏
+Arrest	逮捕
+Following	Following
+Lobectomy	肺叶切除术
+for	for
+Squamous	鳞状
+Cell	单元格
+Carcinoma	癌
+of	of
+the	the
+Lung	Lung
+;	;
+II	II
+)	)
+Ischaemic	缺血
+Heart	Heart
+Disease	疾病
+,	,
+Mixed	Mixed
+Dust	灰尘
+Pneumoconiosis	尘肺病
+,	,
+Hypertensive	高血压
+Left	左
+Ventricular	心室
+Hypertrophy	肥大
+;	;
+Verdict	判决
+:	:
+The	The
+deceased	死者
+died	死了
+as	as
+a	a
+result	result
+of	of
+a	a
+recognised	已识别
+""""	"" "" "

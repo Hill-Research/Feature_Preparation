@@ -1,0 +1,19 @@
+NSCLC	dis
+根治性手术	pro
+根治性放疗	pro
+局部晚期或转移性（IV期）NSCLC	dis
+EGFR	bod
+肿瘤	dis
+EGFR	bod
+4	a) EGFR野生型和ALK融合基因阴性	sym
+局部晚期或转移性NSCLC	dis
+EGFR	bod
+EGFR-TKI	bod
+抗PD-1/PD-L1抗体	bod
+含铂化疗	pro
+EGFR	bod
+EGFR-TKI	bod
+肿瘤	dis
+实体瘤	dis
+肿瘤	dis
+器官	bod
